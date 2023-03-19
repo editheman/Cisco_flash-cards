@@ -1,0 +1,3024 @@
+1.A customer comes into a computer parts and service store. The customer is looking for a device to help a person with accessibility issues input instructions into a laptop by using a pen. What device should the store owner recommend to accomplish the required task?
+stylus
+biometric scanner
+keyboard
+NFC device
+2.A customer comes into a computer parts and service store. The customer is looking for a device to provide secure access to the central server room using a retinal scan. What device should the store owner recommend to accomplish the required task?
+biometric scanner
+keyboard
+NFC device
+flatbed scanner
+3.A customer comes into a computer parts and service store. The customer is looking for a device to help when repairing an airplane and that will allow the customer to see and interact with the repair manual at the same time. What device should the store owner recommend to accomplish the required task?
+AR headset
+biometric scanner
+keyboard
+NFC device
+4.A customer comes into a computer parts and service store. The customer is looking for a device to manually input text for a new networking textbook that the customer is writing. What device should the store owner recommend to accomplish the required task?
+keyboard
+biometric scanner
+NFC device
+flatbed scanner
+5.A customer comes into a computer parts and service store. The customer is looking for a device to allow secure access to the main doors of the company by swiping an ID card. What device should the store owner recommend to accomplish the required task?
+magstripe reader
+biometric scanner
+keyboard
+NFC device
+6.A customer comes into a computer parts and service store. The customer is looking for a device to allow users to tap and pay for their purchases. What device should the store owner recommend to accomplish the required task?
+ NFC device
+joystick or gamepad
+projector
+magstripe reader
+7.A customer comes into a computer parts and service store. The customer is looking for a device to allow secure access to the main doors of the company by swiping an ID card. What device should the store owner recommend to accomplish the required task?
+magstripe reader
+joystick or gamepad
+projector
+AR headset
+8.A customer comes into a computer parts and service store. The customer is looking for a device to display a promotional presentation to a large audience at a conference. What device should the store owner recommend to accomplish the required task?
+projector
+joystick or gamepad
+magstripe reader
+AR headset
+9.A customer comes into a computer parts and service store. The customer is looking for a device to scan some old family photos into a laptop. What device should the store owner recommend to accomplish the required task?
+flatbed scanner
+joystick or gamepad
+projector
+magstripe reader
+10.A customer comes into a computer parts and service store. The customer is looking for a device to train pilots how to land and take off in a computer simulation environment. What device should the store owner recommend to accomplish the required task?
+joystick or gamepad
+projector
+magstripe reader
+AR headset
+11.Which characteristic describes DDR3 SDRAM?
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+an individual memory chip that has dual rows of pins used to attach it to the motherboard
+a small circuit board that holds several memory chips and has a 30- or 72-pin configuration
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+12.Which characteristic describes ECC memory?
+chips that can detect multiple bit errors and correct single bit errors in memory
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+an individual memory chip that has dual rows of pins used to attach it to the motherboard
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+13.Which characteristic describes GDDR SDRAM?
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+chips that require constant power to function and are often used for cache memory
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips whose contents can be “flashed” for deletion and are often used to store BIOS
+14.Which characteristic describes ROM?
+a chip that cannot be erased or rewritten and is now obsolete
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+chips that require constant power to function and are often used for cache memory
+15.Which characteristic describes a DIP?
+an individual memory chip that has dual rows of pins used to attach it to the motherboard
+chips that require constant power to function and are often used for cache memory
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips whose contents can be “flashed” for deletion and are often used to store BIOS
+16.Which characteristic describes PROM?
+ chips that are manufactured blank and then can be programmed once by a PROM programmer
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+chips that require constant power to function and are often used for cache memory
+17.Which characteristic describes a SIMM?
+a small circuit board that holds several memory chips and has a 30- or 72-pin configuration
+chips that require constant power to function and are often used for cache memory
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips whose contents can be “flashed” for deletion and are often used to store BIOS
+18.Which characteristic describes EPROM?
+a chip that is nonvolatile and can be erased by exposing it to strong ultraviolet light
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+chips that require constant power to function and are often used for cache memory
+19.Which characteristic describes a SIMM?
+a small circuit board that holds several memory chips and has a 30- or 72-pin configuration
+SRAM that is internal and integrated into the CPU
+a smaller, more condensed memory module that provides random access data storage, ideal for use in laptops, printers, and other
+devices where conserving space is desirable
+an individual memory chip that has dual rows of pins used to attach it to the motherboard
+20.Which characteristic describes EPROM?
+a chip that is nonvolatile and can be erased by exposing it to strong ultraviolet light
+SRAM that is internal and integrated into the CPU
+a smaller, more condensed memory module that provides random access data storage, ideal for use in laptops, printers, and other devices where conserving space is desirable
+a small circuit board that holds several memory chips and has a 30- or 72-pin configuration
+21.A technician looks at a motherboard and sees a 24-pin connector. What component would connect to the motherboard through the use of this 24-pin connector?
+power supply
+video card
+PATA optical drive
+SATA drive
+floppy drive
+22.Which two activities are normally controlled by the Northbridge part of the chipset? (Choose two.)
+communication between the CPU and the I/O ports
+access to the RAM
+communication between the CPU and the hard drive
+access to the video card
+communication between the CPU and the sound card
+23.Which two components usually interface directly with the Southbridge chipset on the motherboard? (Choose two.)
+video card
+USB ports
+RAM
+hard drive
+PCIe slots
+24.Which statement describes the proper use of an anti-static wrist strap?
+An anti-static wrist strap should not be used in conjunction with an antistatic mat.
+For optimum grounding, the clip should be attached to a painted section of the computer case.
+An anti-static wrist strap should make contact with the skin.
+The anti-static wrist strip should not be attached to any grounded object.
+25.A technician is building a thick client workstation that would be used to run a database and wants to ensure the best protection against errors. What type of memory would be best suited for this?
+ECC
+RDRAM
+DDR3
+DDR2
+26.Which type of memory is primarily used as cache memory?
+DRAM
+RAM
+ROM
+SRAM
+27.Which adapter would a technician install in a desktop computer to enable a video signal to be recorded from a video recorder to the computer hard drive?
+video adapter
+TV tuner card
+video capture card
+network interface card
+28.Which two storage devices use a magnetic medium for storing data? (Choose two.)
+ tape drive
+solid state drive
+hard disk drive
+blue-ray disk drive
+compact disk drive
+29.Which unit of measurement is used to indicate the hard drive speed?
+revolutions per minute
+gigabytes
+pages per minute
+clusters per minute
+30.What three voltages are commonly provided by the power supply to the various components inside the computer? (Choose three.)
+3.3 volts
+5 volts
+9 volts
+12 volts
+24 volts
+48 volts
+31.A customer needs additional storage space on an older computer. What will the technician look at in the computer to determine if an additional hard drive can be added?
+adequate RAM
+an open PCI/PCIe expansion slot
+an available PATA/SATA connection
+BIOS version
+the heat that is generated and air flow requirements
+32.Which component controls the communications and interactions between the CPU and other components on the motherboard?
+RAM
+BIOS
+CMOS
+chipset
+33.Which statement describes a characteristic of GDDR Synchronous Dynamic RAM?
+It is used in conjunction with a dedicated GPU.
+It processes massive amounts of data at the fastest speeds.
+It is used for main memory.
+It has a low power consumption and is used for cache memory.
+34.Hard drives in a grocery warehouse keep failing because of vibrations in the warehouse environment. What would be a possible solution for this high failure rate?
+ Install an SSD drive in each computer.
+Install a more powerful power supply in each computer.
+Install an antistatic mat under each computer.
+Install each computer in a specialized high airflow case.
+35.Refer to the exhibit. Which two port types are shown in the graphic? (Choose two.)
+modem
+network
+parallel
+serial
+USB
+36.From which type of data storage does the CPU load information for processing during normal operation?
+SSD
+RAM
+ROM
+hard drive
+37.Refer to the exhibit. Which type of adapter is shown?
+sound
+RAID
+video
+network interface
+38.Which type of device would be used on a laptop to verify the identity of a user?
+a MIDI device
+a biometric identification device
+a touch screen
+a digitizer
+39.Which two devices are considered input devices? (Choose two.)
+ biometric authentication device
+printer
+digital camera
+projector
+speakers
+40.What is an active cooling solution for a PC?
+Reduce the speed of the CPU.
+Add a heatsink to the CPU.
+Add an additional case fan.
+Use a painted computer case.
+41.Which tool can protect computer components from the effects of ESD?
+antistatic wrist strap
+surge suppressor
+UPS
+SPS
+42.Which type of interface was originally developed for high-definition televisions and is also popular to use with computers to connect audio and video devices?
+FireWire
+DVI
+HDMI
+USB
+VGA
+43.Which statement describes a characteristic of SRAM in a PC?
+It is used as main RAM in a PC.
+It has the highest power consumption.
+It is used for cache memory.
+It has a connector with 240 pins.
+44.A customer has a computer for a home business, but wants to have another computer as a web server. What would be the best solution for the customer to share the monitor, mouse, and keyboard between the two computers?
+access point
+KVM switch
+multipurpose device
+network switch
+USB hub
+45.Why is it important to ground both computers and network devices?
+to ensure that the power supply is limited to an output of 110V DC
+to facilitate the flow of current from the power supply to the computer case
+to provide a path of least resistance for stray current
+to ensure that both the power supplied and the power used is in sync with the ground voltage
+46.What is a good safety precaution to take when opening a computer case?
+Place tape over the case edges that are sharp.
+Remove the cover (or door) of the computer case before installing or removing parts.
+Remove the connections to the front panel before extending the case fully open.
+Ensure that any loose clothing such as a tie or shirt stay in constant contact with the case when handling internal components.
+47.What does the &#8220;A&#8221; in P-A-S-S remind a person to do while using a fire extinguisher?
+Aim the fire extinguisher at the flames.
+Aim the fire extinguisher at the base of the fire.
+Activate the fire extinguisher.
+Adjust the pressure.
+48.How is a power supply commonly attached to a tower case?
+restraining strap
+retention bar
+screws
+standoffs
+49.A technician is replacing a power supply. Which two factors should the technician consider when obtaining the replacement part? (Choose two.)
+type of case
+input voltage level of 12 or 5 VDC
+number of internal fans
+output voltage
+wattage
+The computer input power level is either 120 or 240 VAC. Output voltages are standard 3.3, 5, and 12 VDC. A power supply normally has one fan and this is not a selectable option on a fan.
+50.A technician is installing additional memory in a computer. How can the technician guarantee that the memory is correctly aligned?
+The label on the memory module should always face the CPU.
+A notch in the memory module should be aligned with a notch in the memory slot.
+The arrows on the memory module should be aligned with the arrows on the motherboard slot.
+Memory slots are color coded, with one end red and one end blue.
+51.What is used to prevent the motherboard from touching metal portions of the computer case?
+an I/O shield
+thermal compound
+standoffs
+ZIF sockets
+52.Which statement describes the purpose of an I/O connector plate?
+It makes the I/O ports of the motherboard available for connection in a variety of computer cases.
+It plugs into the motherboard and expands the number of available slots for adapter cards.
+It provides multiple connections for SATA hard drives to connect to the motherboard.
+It connects the PCIe adapter slots used for video directly to the CPU for faster processing.
+53.What are three important considerations when installing a CPU on a motherboard? (Choose three.)
+Antistatic precautions are taken.
+The CPU is correctly aligned and placed in the socket.
+The CPU contacts are first cleaned with isopropyl alcohol.
+The CPU heat sink and fan assembly are correctly installed.
+The CMOS EPROM battery is removed prior to installing the CPU.
+Maximum insertion force is applied to the load lever so the CPU is locked in place.
+54.When a new PC is being built, which component has the most influence when selecting the case and power supply?
+video card
+sound card
+RAM module
+motherboard
+hard disk type
+55.Which two factors must be considered when replacing old RAM modules in a PC? (Choose two.)
+The new RAM must be compatible with BIOS or UEFI.
+The new RAM must be compatible with the motherboard.
+The speed of the new RAM must be supported by the chipset.
+The power supply must provide the voltage that is requred by the new RAM.
+The new RAM must match the old RAM in terms of capacity and speed.
+56.Refer to the exhibit. In which section of the motherboard would a memory module be installed?
+section A
+section B
+section C
+section D
+57.Which type of motherboard expansion slot sends data one bit at a time over a serial bus?
+RAM
+PCI
+PCIe
+PATA
+58.Which PC motherboard bus is used to connect the CPU to RAM and other motherboard components?
+ front-side
+PCI
+PCIe
+SATA
+59.Where is buffered memory commonly used?
+gaming laptops
+gaming computers
+business PCs
+servers
+tablets
+60.A technician has been asked to upgrade a processor and needs to do some research. The computer is just a couple of years old. What are two types of processor packages that could be used inside the computer? (Choose two.)
+GDDR
+LGA
+PCIe
+PGA
+ISA
+61.A student is looking to add memory in order to speed up a tower computer. Which type of memory module should the student be looking for?
+DIP
+DIMM
+SIMM
+SODIMM
+62.Which type of drive is typically installed in a 5.25 inch (13.34 cm) bay?
+hard drive
+optical drive
+flash drive
+SSD
+63.A technician has been asked to order a replacement internal SATA HDD. Between which two form factors will the technician have to choose? (Choose two.)
+2.25 inch (5.72 cm)
+2.5 inch (6.35 cm)
+3.5 inch (8.89 cm)
+5.5 inch (13.97 cm)
+6.25 inch (15.88 cm)
+64.While shopping for a replacement motherboard, a customer decides to also purchase a new mechanical hard drive and asks the technical salesperson for advice. Which storage interface should the salesperson recommend for the motherboard and new drive?
+IDE
+EIDE
+SATA
+RAID 5
+65.Which type of motherboard expansion slot has four types ranging from x1 to x16 with each type having a different length of expansion slot?
+PCIe
+AGP
+SATA
+PCI
+66.A technician is installing a new high-end video adapter card into an expansion slot on a motherboard. What may be needed to operate this video adapter card?
+PCI expansion slot
+PCIe x 8  expansion slot
+Two 8-pin power connectors
+24-pin ATX power connector
+67.Refer to the exhibit. Which type of expansion slot is shown?
+AGP
+PCI
+PCIe x16
+memory
+68.Refer to the exhibit. Which device is shown?
+KVM switch
+media reader
+optical drive
+SATA drive
+69.When assembling a PC, how is pin 1 identified on the front panel cables so that it can be aligned properly with pin 1 on the motherboard panel connector?
+by a small arrow or notch
+by a plus sign
+by a P1
+by a red cable
+70.Which two considerations would be of the greatest importance when building a workstation that will run multiple virtual machines? (Choose two.)
+ amount of RAM
+number of CPU cores
+water cooling
+powerful video card
+high-end sound card
+71.Which two components are commonly replaced when a computer system with a newer motherboard is being upgraded? (Choose two.)
+RAM
+hard disk drive
+CPU
+optical drive
+CMOS battery
+adapter card
+72.What are two reasons for installing a second hard disk drive inside an existing computer? (Choose two.)
+to support a RAID array
+to store BIOS configuration settings
+to store the system swap file
+to increase CPU speed
+to allow access to a secondary display output
+73.A technician has just finished assembling a new computer. When the computer is powered up for the first time, the POST discovers a problem. How does the POST indicate the error?
+It issues a number of short beeps.
+The LED on the front of the computer case flashes a number of times.
+It places an error message in the BIOS.
+It locks the keyboard.
+74.What is a function of the BIOS?
+enables a computer to connect to a network
+provides temporary data storage for the CPU
+performs a check on all internal components
+provides graphic capabilities for games and applications
+75.A technician has assembled a new computer and must now configure the BIOS. At which point must a key be pressed to start the BIOS setup program?
+before the computer is powered on
+during the Windows load process
+during the POST
+after the POST, but before Windows starts to load
+76.How does an inline UPS protect computer equipment against electrical power brownouts and blackouts?
+by grounding excess electrical voltage
+by using a battery to supply a constant level of voltage
+by switching from main power to a standby power source
+by stopping the flow of voltage to the computer
+77.Which condition refers to a reduced voltage level of AC power that lasts for an extended period of time?
+ brownout
+sag
+spike
+surge
+78.How should a technician dispose of an empty inkjet printer cartridge?
+Refill it.
+Throw it away.
+Follow local regulations for disposal.
+Give it back to the customer.
+79.What makes CRT monitor disposal dangerous for a technician who is handling the disposal?
+potential breathing hazards
+potential explosive materials
+potential residual high voltage
+potential health-damaging chemicals
+80.Which type of interface was originally developed for high-definition televisions and is also popular to use with computers to connect audio and video devices?
+FireWire
+DVI
+HDMI
+USB
+VGA
+81.What is indicated by the contrast ratio of a monitor?
+the difference in the intensity of light between the brightest white and darkest black that can be displayed
+how often the picture image is refreshed
+the total number of pixels that make up the picture
+the ratio of the horizontal and vertical viewing areas of the monitor
+82.What electrical unit refers to the number of electrons moving through a circuit per second?
+current
+voltage
+resistance
+power
+83.What characteristic of electricity is expressed in watts?
+the amount of work required to move electrons through a circuit
+the resistance to the flow of current in a circuit
+the amount of electrons flowing through a circuit per second
+the work required to move electrons through a circuit multiplied by the number of electrons flowing through a circuit per second
+84.Which is a BIOS security feature that can prevent data from being read from a hard drive even if the hard drive is moved to another computer?
+ drive encryption
+RAID
+secure boot
+BIOS passwords
+85.What data is stored in the CMOS memory chip?
+BIOS settings
+Windows configuration settings
+user login information
+device driver
+86.What is the purpose of LoJack?
+It allows the owner of a device to remotely locate, lock, or delete all files from the device.
+It ensures that a computer will only boot an operating system that is trusted by the motherboard manufacturer.
+It provides passwords for different levels of access to the BIOS.
+It encrypts data on hard drives to prevent access without the correct password.
+87.What is one purpose of adjusting the clock speed within the BIOS configuration settings?
+to allow a computer to run multiple operating systems in files or partitions
+to change the order of the bootable partitions
+to disable devices that are not needed or used by the computer
+to allow the computer to run slower and cooler
+88.A user playing a game on a gaming PC with a standard EIDE 5400 RPM hard drive finds the performance unsatisfactory. Which hard drive upgrade would improve performance while providing more reliability and more energy efficiency?
+a 7200 RPM EIDE hard drive
+a 7200 RPM SATA hard drive
+a 10,000 RPM SATA hard drive
+an SSD
+89.Which security feature in modern CPUs protects memory areas that contain part of the operating system from malware attacks?
+encryption
+TPM
+execute disable bit
+LoJack
+90.A user reports that every morning when a particular computer is turned on, the configuration settings on that computer have to be reset. What action should be taken to remedy this situation?
+Replace the motherboard.
+Replace the CMOS battery.
+Move the jumpers.
+Upgrade the BIOS.
+91.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 6?
+3
+5
+6
+7
+92.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 10?
+4
+5
+6
+7
+93.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 10?
+4
+6
+10
+7
+94.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 1?
+2
+6
+10
+7
+95.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 5?
+3
+7
+6
+10
+96.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 5?
+3
+1
+7
+10
+97.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 6?
+ 3
+1
+7
+10
+98.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 6?
+3
+1
+5
+6
+99.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 10?
+4
+5
+1
+6
+100.A data analyst has asked a technician to help protect locally stored data by installing a RAID. What is the minimum number of drives the technician has to install if configuring a RAID level 1?
+2
+6
+1
+5
+101.A technician has been asked to configure several computers with RAID. The customer needs protection if one drive fails, fast access, and drive capacity. Which RAID should the technician install?
+RAID 5
+RAID 4
+RAID 2
+RAID 3
+102.A technician has been asked to configure several computers with RAID. The customer needs protection if two drive fails and wants as much drive capacity as possible. Which RAID should the technician install?
+RAID 6
+RAID 7
+RAID 2
+RAID 3
+103.A technician has been asked to configure several computers with RAID. The customer needs protection if two drive fails and wants as much drive capacity as possible. Which RAID should the technician install?
+ RAID 6
+RAID 7
+RAID 8
+RAID 4
+104.A technician has been asked to configure several computers with RAID. The customer needs protection for one drive failure and only has room in the computer for two drives. Which RAID should the technician install?
+RAID 1
+RAID 7
+RAID 8
+RAID 4
+105.A technician has been asked to configure several computers with RAID. The customer wants RAID and full drive capacity, but does not care about a drive failure, because all data is constantly backed up. The computer where the RAID is to be installed only has room for two drives. Which RAID should the technician install?
+RAID 0
+RAID 8
+RAID 7
+RAID 4
+106.A technician has been asked to configure several computers with RAID. The customer wants data to be stored on two drives that are used to maximum capacity and does not care if a single drive fails, because data is backed up hourly. Which RAID should the technician install?
+RAID 0
+RAID 8
+RAID 7
+RAID 4
+107.A technician has been asked to configure several computers with RAID. The customer wants data to be stored on three drives and protection for one drive failure. Which RAID should the technician install?
+RAID 5
+RAID 2
+RAID 8
+RAID 7
+108.A technician has been asked to configure several computers with RAID. The customer wants three drives to be used and protection if one drive fails. Which RAID should the technician install?
+RAID 5
+RAID 2
+RAID 4
+RAID 3
+109.A technician has been asked to configure several computers with RAID. The customer wants to incorporate mirroring and striping as part of the RAID. Which RAID should the technician install?
+RAID 10
+RAID 3
+RAID 4
+RAID 2
+110.A technician has been asked to configure several computers with RAID. The customer wants the best RAID possible with three drives used. Which RAID should the technician install?
+RAID 6
+RAID 3
+RAID 4
+RAID 2
+111.A technician is selecting a PC that will be used by a user as a thin client. What is a major consideration that needs to be taken into account?
+network connection to a server
+multiple SCSI drives
+optical drive
+multiple touch screens
+112.A technician is selecting a web server that will be used to host multiple gaming applications. What is a major consideration that needs to be taken into account?
+powerful processor
+multiple SCSI drives
+optical drive
+multiple touch screens
+113.A technician is selecting a web server that will be used to host multiple gaming applications. What is a major consideration that needs to be taken into account?
+powerful processor
+read-only memory modules
+multiple touch screens
+multiple SCSI drives
+114.A technician is selecting a PC that will be used by a songwriter to mix tracks. What is a major consideration that needs to be taken into account?
+specialized audio card
+dual-fan power supply
+smart card reader
+Thunderbolt connector
+115.A technician is selecting a laptop that will be used by a teleworker for connecting to the internet while traveling anywhere. What is a major consideration that needs to be taken into account?
+cellular card
+Thunderbolt connector
+smart card reader
+dual-fan power supply
+116.A technician is selecting a server that will be used by a cloud provider for data storage. What is a major consideration that needs to be taken into account?
+ multiple large hard drives
+smart card reader
+Thunderbolt connector
+dual-fan power supply
+117.A technician is selecting a server that will be used by a cloud provider to provide fault tolerance for large quantities of stored data. What is a major consideration that needs to be taken into account?
+RAID
+smart card reader
+Thunderbolt connector
+dual-fan power supply
+118.A technician is selecting a server that will be used by a cloud provider to provide fault tolerance for large quantities of stored data. What is a major consideration that needs to be taken into account?
+ RAID
+motherboard that supports dual-channeling
+smart card reader
+Thunderbolt connector
+119.A technician is selecting a PC that will be used by an employee who wants to share a keyboard and mouse among three devices. What is a major consideration that needs to be taken into account?
+KVM switch
+motherboard that supports dual-channeling
+smart card reader
+Thunderbolt connector
+120.A technician is selecting a PC that will be used by an employee who wants to share a keyboard and mouse among three devices. What is a major consideration that needs to be taken into account?
+KVM switch
+UEFI BIOS
+dual-fan power supply
+read-only memory modules
+121.A web designer installed the latest video editing software and now notices that when the application loads, it responds slowly. Also the hard disk LED is constantly flashing when the application is in use. What is a solution to solve the performance problem?
+adding more RAM
+upgrading to a faster CPU
+replacing the video card with a model that has a DVI output
+replacing the hard disk with a faster model
+122.An employee reports that each time a workstation is started it locks up after about 5 minutes of use. What is the most likely cause of the problem?
+The hard disk is failing.
+The RAM is malfunctioning.
+The CPU is overheating.
+The power supply fails to provide adequate voltage and current.
+123.A technician is troubleshooting a 4-year-old computer that takes a long time to boot, and identifies that the BIOS rediscovers all the hardware at every boot. What action would fix this problem?
+Replace the CMOS battery.
+Launch Device Manager to discover new hardware.
+Reset the BIOS using the CMOS jumper.
+Start the computer with the last known good configuration.
+124.A user has noticed that the hard drive LED on the front of the computer has stopped working. However, the computer seems to be functioning normally. What is the most likely cause of the problem?
+The hard drive data cable is malfunctioning.
+The motherboard BIOS needs to be updated.
+The hard drive LED cable has come loose from the motherboard.
+The power supply is not providing enough voltage to the motherboard.
+125.During the troubleshooting of a PC that will not boot, it is suspected that the problem is with the RAM modules. The RAM modules are removed and put into another PC, which successfully powers on. The RAM modules are then put back into the original PC and it now successfully powers on as well. What was the most likely cause of the problem?
+The RAM modules have bad blocks.
+The RAM modules were not seated firmly.
+The RAM modules did not match the PC specs.
+The RAM modules were inserted backwards into the DIMM slots.
+126.What component is most suspect if a burning electronics smell is evident?
+CPU
+hard drive
+RAM module
+power supply
+127.When troubleshooting a computer, where can a technician find updated information about errors caused by the system, the user, or the software?
+ Event Viewer
+Device Manager
+the BIOS
+vendor diagnostic tools
+The severity and source of the problem.
+An event ID assigned to the problem.
+The user who was logged in when the problem occurred.
+128.During what step in the troubleshooting process does the technician demonstrate to the customer how the solution corrected the problem?
+Verify full system functionality.
+Establish a plan of action to resolve the problem.
+Document the findings, actions, and outcomes.
+Establish a theory of probable cause.
+129.If a technician is unable to create a backup of data on a customer computer, what three pieces of information should the technician include on the liability release form signed by the customer before beginning work? (Choose three.)
+a description of the problem
+the steps required to resolve the problem
+permission to work on the computer without a current backup available
+a release from liability if data is lost or corrupted
+the components used in the repair
+a description of the work to be performed
+130.What should a technician do before beginning any troubleshooting steps on a customer computer?
+Perform a data backup.
+Document the findings.
+Identify the problem.
+Establish a plan of action.
+131.After consulting the manufacturer manuals, a technician applies a series of recommended solutions that resolve a problem with a workstation computer. What is the next step in the troubleshooting process that the technician should perform?
+Verify the solution and confirm full system functionality.
+Document the findings, actions, and outcomes.
+Test the theory of probable cause.
+Determine the next steps to resolve the problem.
+132.A customer asks for a solution to a printer problem that is beyond the knowledge level of the technician. What should the technician do?
+Try to fix the problem anyway.
+Tell the customer to call the printer manufacturer to fix the problem.
+Gather as much informatio​n as possible and escalate the problem.
+Ask the customer to call again when another technician can provide a solution to the problem.
+133.A computer technician performed a number of actions to correct a problem. Some actions did not solve the problem, but eventually a solution was found. What should be documented?
+everything that was done to try to solve the problem
+only the solution, because this solved the problem
+only the failed attempts, so that future technicians will know what not to try
+a description of the problem and solution
+134.A specific computer has an issue that could not be resolved by the help desk technician. The on-site technician finds that Windows updates have been disabled. The technician re-enables the update service, configures the computer for automatic updates, downloads and installs all missing updates, ensures the computer boots successfully, and verifies with the customer that the issue has been resolved. Which step, if any, is next?
+Document the findings, actions, and outcomes.
+No further action is needed.
+Establish a plan of action to resolve the problem and implement the solution.
+Verify full system functionality and, if applicable, implement preventive measures.
+Test the theory to determine the cause.
+135.A helpdesk technician takes a call, &#8220;Good morning, this is the helpdesk. My name is Greg. How may I help you today?&#8221; The frantic caller states, &#8220;My computer will not turn on and I have a presentation in 15 minutes.&#8221; The technician responds, &#8220;Now calm down and let us see what we can do.&#8221; The technician then proceeds to lead the caller through the process of checking power cables and power lights. Which troubleshooting step is being used at this point?
+Identify the problem.
+Establish a theory of probable cause.
+Establish a plan of action to resolve the problem.
+Verify full system functionality and, if applicable, implement preventive measures.
+Implement a solution.
+136.What is the purpose of documenting the information that is obtained from the customer in the work order?
+to keep track of parts that are ordered
+to use the information for marketing purposes
+to use the information to aid in solving the problem
+to create a centralized database of possible problems
+137.What is the next step after a possible solution is implemented during a troubleshooting process?
+Test another possible solution.
+Identify other possible causes for the problem.
+Document the cause and the solution for the problem.
+Verify the full system functionality and apply maintenance procedures.
+138.An employee reports that the output of a workstation display is distorted. The technician checks the manufacturer website and downloads the latest version of the video driver. After the video driver is installed, what should the technician do next?
+Schedule the next system checkup with the employee.
+Log the previous and current version numbers of the video driver.
+Move the display card to another slot to see if the video performs better.
+Open a video editing application to verify the video performance.
+139.Which two types of data should be backed up before troubleshooting a computer for a customer? (Choose two.)
+BIOS system file
+driver files for the hard disk
+Internet Explorer favorites files
+Windows operating system files
+documents that are created by the customer
+140.In which step of the troubleshooting process would a technician have to do more research on the Internet or within the computer manual in order to solve a problem?
+Test the theory to determine the cause.
+Document findings, actions, and outcomes.
+Establish a plan of action to resolve the problem and implement the solution.
+Verify full system functionality and, if applicable, implement preventive measures.
+Identify the problem.
+141.What are three benefits of computer preventive maintenance? (Choose three.)
+elimination of the need for repairs
+improvement in data protection
+extension of the life of components
+reduction in the number of equipment failures
+time savings for technicians making repairs
+improvement in RAM access time
+142.What is the best way to determine if a CPU fan is spinning properly?
+Spin the blades of the fan quickly with a finger.
+Spray compressed air on the fan to make the blades spin.
+Visually inspect the fan when the power is on to ensure it is spinning.
+Listen for the sound of the fan spinning when the power is on.
+143.A technician is performing hardware maintenance of PCs at a construction site. What task should the technician perform as part of a preventive maintenance plan?
+Remove dust from intake fans.
+Back up the data, reformat the hard drive, and reinstall the data.
+Develop and install forensic tracking software.
+Perform an audit of all software that is installed.
+144.What is a primary benefit of preventive maintenance on a PC?
+It extends the life of the components.
+It enhances the troubleshooting processes.
+It simplifies PC use for the end user.
+It assists the user in software development.
+145.An employee reports that the antivirus software cannot obtain updates. The support technician notices that the license for the software has expired. The technician adds a new license to the software and completes the update service. What should the technician do next?
+Record the new license number in the log.
+Download advanced antivirus software from another vendor.
+Run a full virus scan on the computer.
+Review the Event Viewer for the date and time that the last software update was performed.
+146.A customer is considering a multipurpose device to create a home network. Which three devices are usually integrated into a multipurpose network device? (Choose three.)
+web server
+switch
+router
+email server
+wireless access point
+print server
+147.Which two devices are commonly powered by PoE? (Choose two.)
+access point
+core switch
+IP phone
+modular switch
+router
+148.Which two types of signal interference are reduced more by STP than by UTP? (Choose two.)
+RFI
+white noise
+MDF
+dispersion
+EMI
+149.When would a printer be considered a network host?
+when it is connected to a switch
+when it is connected to a workstation
+when it is connected to a laptop
+when it is connected to a PC
+150.Which technology is most often used to connect devices to a PAN?
+coaxial cabling
+Bluetooth
+fiber optic cabling
+IEEE 802.11n wireless
+151.A network specialist has been hired to install a network in a company that assembles airplane engines. Because of the nature of the business, the area is highly affected by electromagnetic interference. Which type of network media should be recommended so that the data communication will not be affected by EMI?
+STP
+coaxial
+fiber optic
+UTP
+152.How many devices can a Bluetooth device connect to simultaneously?
+127
+7
+10
+24
+5
+153.Which network device makes forwarding decisions based on the destination MAC address that is contained in the frame?
+repeater
+hub
+switch
+router
+154.What is a common function of a proxy server?
+to store frequently accessed web pages on the internal network
+to control who is permitted to access the internal network
+to detect malicious signatures by monitoring traffic that is entering the internal network
+to provide access to a shared pool of configurable computing resources
+155.What is a characteristic of a WAN?
+It connects multiple networks that are geographically separated.
+It spans across a campus or city to enable sharing of regional resources.
+It is typically owned and managed by a single home or business.
+It requires a wireless access point to connect users to the network.
+156.What is the correct order of the layers of the TCP/IP model from the top layer to the bottom?
+application, session, network, data link, physical
+application, internet, network access, transport
+network access, transport, internet, application
+application, transport, internet, network access
+157.Which IEEE standard operates at wireless frequencies in both the 5 GHz and 2.4 GHz ranges?
+802.11n
+802.11g
+802.11b
+802.11a
+158.Which pairs of wires change termination order between the 568A and 568B standards?
+green and orange
+green and brown
+blue and brown
+brown and orange
+159.Which device provides wireless connectivity to users as its primary function?
+switch
+router
+access point
+modem
+160.Which type of connection to the Internet is capable of the fastest transfer rates?
+ISDN
+POTS
+satellite
+cable
+fiber
+161.A user needs to access the Internet from home. Which device is needed if a user connects to an ISP through the telephone network?
+switch
+server
+DSL modem
+wireless access point
+162.Which well-known port number is used by the DHCP (client) protocol?
+67
+68
+20
+80
+53
+163.A technician with a PC is using multiple applications while connected to the Internet. How is the PC able to keep track of the data flow between multiple application sessions and have each application receive the correct packet flows?
+The data flow is being tracked based on the destination MAC address of the technician PC.
+The data flow is being tracked based on the source port number that is used by each application.
+The data flow is being tracked based on the source IP address that is used by the PC of the technician.
+The data flow is being tracked based on the destination IP address that is used by the PC of the technician.
+164.Which type of server would be used to keep a historical record of messages from monitored network devices?
+DHCP
+DNS
+print
+authentication
+syslog
+165.Which network device would be the most appropriate to provide stateful packet filtering, email filtering, and VPN services?
+router
+endpoint management server
+proxy server
+UTM
+TPM
+166.Which smart home wireless technology has an open standard that allows up to 232 devices to be connected?
+802.11ac
+802.11n
+Z-Wave
+Zigbee
+167.Which network device allows administrators to remotely manage many devices through one dashboard interface?
+cloud-based network controller
+Power over Ethernet
+switch that supports VLANs
+powerline networking
+168.Which internet connection type is an always-on service that uses radio signals sent from a tower to a receiver in a home or business?
+line of sight wireless
+satellite
+hotspot
+cellular
+169.Which type of server would support the SMTP, POP, and IMAP protocols?
+DHCP
+email
+proxy
+syslog
+170.A client packet is received by a server. The packet has a destination port number of 21. What service application is the client requesting?
+FTP
+LDAP
+SLP
+SNMP
+171.A client packet is received by a server. The packet has a destination port number of 137. What service application is the client requesting?
+NetBIOS (NetBT)
+SMB/CIFS
+HTTPS
+SLP
+172.A client packet is received by a server. The packet has a destination port number of 22. What service application is the client requesting?
+SSH
+SMB/CIFS
+HTTPS
+SLP
+173.A client packet is received by a server. The packet has a destination port number of 143. What service application is the client requesting?
+IMAP
+SMB/CIFS
+HTTPS
+SLP
+174.A client packet is received by a server. The packet has a destination port number of 161. What service application is the client requesting?
+SNMP
+SMB/CIFS
+HTTPS
+SLP
+175.A client packet is received by a server. The packet has a destination port number of 23. What service application is the client requesting?
+Telnet
+SMB/CIFS
+HTTPS
+SLP
+176.A client packet is received by a server. The packet has a destination port number of 389. What service application is the client requesting?
+LDAP
+SMB/CIFS
+HTTPS
+SLP
+177.A client packet is received by a server. The packet has a destination port number of 25. What service application is the client requesting?
+SMTP
+SMB/CIFS
+HTTPS
+SLP
+178.A client packet is received by a server. The packet has a destination port number of 389. What service application is the client requesting?
+LDAP
+POP3
+HTTP
+NetBIOS (NetBT)
+179.A client packet is received by a server. The packet has a destination port number of 53. What service application is the client requesting?
+DNS
+NetBIOS (NetBT)
+POP3
+IMAP
+180.A technician is searching through a storage locker and finds a PoE injector. What is the purpose of this device?
+It is a device that can be inserted in the middle of a cable run to add power.
+It is a device that allows a network administrator to manage many remote networking devices from a central location.
+It connects the network of a user to the digital infrastructure of a phone company, providing always-on service.
+It connects a home or business network to a company that provides internet connectivity as well as television signals.
+181.A technician is searching through a storage locker and finds a managed switch. What is the purpose of this device?
+ It connects multiple end devices and can be configured for VLANs and port security.
+It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services.
+It provides a wired or wireless connection between end devices, switches, and routers and in some cases, can regenerate weak signals.
+It is placed between two or more networks and protects data and equipment from unauthorized access.
+182.A technician is searching through a storage locker and finds a Powerline networking connector. What is the purpose of this device?
+It is a device that uses existing electrical wiring to connect devices and sends data using specific frequencies.
+It is placed between two or more networks and protects data and equipment from unauthorized access.
+It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services.
+It connects networks and forwards traffic to remote networks by using IP addressing information.
+183.A technician is searching through a storage locker and finds a cable modem. What is the purpose of this device?
+It connects a home or business network to a company that provides internet connectivity as well as television signals.
+It is placed between two or more networks and protects data and equipment from unauthorized access.
+It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services.
+It connects networks and forwards traffic to remote networks by using IP addressing information.
+184.A technician is searching through a storage locker and finds an unmanaged switch. What is the purpose of this device?
+It is a device whose sole purpose is to connect end devices and to microsegment a LAN.
+It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services.
+It provides a wired or wireless connection between end devices, switches, and routers and in some cases, can regenerate weak signals.
+It is placed between two or more networks and protects data and equipment from unauthorized access.
+185.A technician is searching through a storage locker and finds a DSL modem. What is the purpose of this device?
+ It connects the network of a user to the digital infrastructure of a phone company, providing always-on service.
+It is placed between two or more networks and protects data and equipment from unauthorized access.
+It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services.
+It connects networks and forwards traffic to remote networks by using IP addressing information.
+186.A technician is searching through a storage locker and finds an access point. What is the purpose of this device?
+It uses radio waves to provide network access to wireless devices.
+It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services.
+It provides a wired or wireless connection between end devices, switches, and routers and in some cases, can regenerate weak signals.
+It is placed between two or more networks and protects data and equipment from unauthorized access.
+187.A technician is searching through a storage locker and finds a router. What is the purpose of this device?
+It connects networks and forwards traffic to remote networks by using IP addressing information.
+It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services.
+It provides a wired or wireless connection between end devices, switches, and routers and in some cases, can regenerate weak signals.
+It is placed between two or more networks and protects data and equipment from unauthorized access.
+188.A technician is searching through a storage locker and finds a cloud-based network controller. What is the purpose of this device?
+It is a device that allows a network administrator to manage many remote networking devices from a central location.
+It transfers small amounts of DC current over Ethernet cables to power low voltage devices such as wireless access points and
+surveillance cameras.
+It provides a wired or wireless connection between end devices, switches, and routers and in some cases, can regenerate weak signals.
+It is a device that can be inserted in the middle of a cable run to add power.
+189.A technician is searching through a storage locker and finds a firewall. What is the purpose of this device?
+It is placed between two or more networks and protects data and equipment from unauthorized access.
+It is a device that can be inserted in the middle of a cable run to add power.
+It transfers small amounts of DC current over Ethernet cables to power low voltage devices such as wireless access points and surveillance cameras.
+It is a device that uses existing electrical wiring to connect devices and sends data using specific frequencies.
+190.What is a feature of a dial-up connection?
+the use of an analog modem to transmit data over voice telephone lines
+the use of different frequencies to send multiple signals over the same medium
+the use of multiple channels which can carry different types of services
+the use of different frequencies to carry voice and data signals on the copper telephone wire
+191.What type of connector is used to connect an analog modem to a telephone line socket?
+RJ-11
+RJ-45
+BNC
+ST
+192.Which device acts as a termination point for cable runs and keeps cables secure and safely out of walkways?
+patch panel
+UTM
+KVM switch
+access point
+193.A technician is searching through a storage locker and finds an Ethernet NIC. What is the purpose of this device?
+It is needed to connect a computer to a wired local-area network.
+It connects a home or business network to a company that provides internet connectivity as well as television signals.
+It is a device that uses existing electrical wiring to connect devices and sends data using specific frequencies.
+It is a device that can be inserted in the middle of a cable run to add power.
+194.A technician is searching through a storage locker and finds a wireless NIC. What is the purpose of this device?
+It is needed to connect a computer or smart device to an 802.11 network.
+It connects a home or business network to a company that provides internet connectivity as well as television signals.
+It is a device that uses existing electrical wiring to connect devices and sends data using specific frequencies.
+It is a device that can be inserted in the middle of a cable run to add power.
+195.A technician is searching through a storage locker and finds a Cisco ASA 5505-X (UTM). What is the purpose of this device?
+It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services.
+It connects a home or business network to a company that provides internet connectivity as well as television signals.
+It is a device that uses existing electrical wiring to connect devices and sends data using specific frequencies.
+It is a device that can be inserted in the middle of a cable run to add power.
+196.A technician is searching through a storage locker and finds a patch panel. What is the purpose of this device?
+It provides a wired or wireless connection between end devices, switches, and routers and in some cases, can regenerate weak signals.
+It connects a home or business network to a company that provides internet connectivity as well as television signals.
+It is a device that uses existing electrical wiring to connect devices and sends data using specific frequencies.
+It is a device that can be inserted in the middle of a cable run to add power.
+197.A technician is searching through a storage locker and finds a repeater. What is the purpose of this device?
+It is used to regenerate weak signals to extend the distance a signal can travel.
+It is a legacy device used to divide LANs into network segments, filtering traffic between those LAN segments.
+It is a legacy device that connects end devices and where traffic from one connected device floods out to every other connected device.
+It connects multiple end devices and can be configured for VLANs and port security.
+198.Users in a recently installed wireless network are complaining of slow data transfer and frequent loss of connectivity. The technician checks that the wireless security is correctly implemented, and there is no evidence of unauthorized users on the network. Which two problems might the technician suspect? (Choose two.)
+There is interference from outside sources.
+The DHCP server is faulty.
+The wireless signal is too weak.
+The antenna on the access point is too powerful.
+The network passwords need to be reissued to the users.
+199.A wired network is undergoing several changes that could leave it vulnerable to connection by unauthorized devices while the work is in progress. Which two temporary measures would enable the authorized devices to continue to have network access but prevent unauthorized devices from connecting? (Choose two.)
+Disable DNS.
+Disable SSID broadcast.
+Disable DHCP.
+Subnet the network.
+Assign static IP addresses to the authorized devices.
+200.What two default wireless router settings can affect network security? (Choose two.)
+The SSID is broadcast.
+MAC address filtering is enabled.
+WEP encryption is enabled.
+The wireless channel is automatically selected.
+A well-known administrator password is set.
+201.A network technician is checking a computer to see if the DHCP client is working correctly. The technician issues the ipconfig /all command. Which two parameters should the technician review? (Choose two.)
+description
+default gateway
+host name
+media state
+subnet mask
+202.A technician is troubleshooting a problem where the user claims access to the Internet is not working, but there was access to the Internet the day before. Upon investigation, the technician determines that the user cannot access the network printer in the office either. The network printer is on the same network as the computer. The computer has 169.254.100.88 assigned as an IP address. What is the most likely problem?
+The computer cannot communicate with a DHCP server.
+The IP default gateway on the computer is incorrect.
+The network interface card driver needs to be updated.
+The router that connects this network to other networks is down.
+203.A user can print to a printer that is on the same network, but the traffic of the user cannot reach the Internet. What is a possible cause of the problem?
+The PC default gateway address is missing or incorrect.
+The PC has an incorrect IP address.
+The network cable connected to the user PC is faulty.
+The NIC on the PC is faulty.
+204.Port triggering has been configured on a wireless router. Port 25 has been defined as the trigger port and port 113 as an open port. What effect does this have on network traffic?
+Any traffic that comes into port 25 allows outgoing port 113 to be used.
+All traffic that is sent into port 25 to the internal network will also be allowed to use port 113.
+Any traffic that is using port 25 going out of the internal network will also be allowed to transmit out port 113.
+All traffic that is sent out port 25 will open port 113 to allow inbound traffic into the internal network through port 113.
+205.A PC is not able to connect to a wired network. Pinging the loopback address is successful, but the gateway cannot be reached. On the network switch all the interface lights are on, except for the interface connected to the PC. The LED on the network card is off. What is the most likely cause of this problem?
+The gateway needs to be fixed.
+The network cable is faulty.
+The network switch is faulty.
+The PC has an incorrect IP address for the DNS server.
+206.The current IP configuration of a small company is done manually and is time-consuming. Because of increased network growth, a technician needs a simpler way for IP configuration of workstations. Which service would simplify the workstation IP configuration task?
+APIPA
+DHCP
+DIPS
+ICMP
+207.A technician troubleshooting a network problem has used CLI commands to determine that a computer has not been allocated a correct IP address from the DHCP server. Which command can the technician use to solve this problem?
+ping
+ipconfig/release
+tracert
+ipconfig/renew
+208.Which network protocol is used to automatically assign an IP address to a computer on a network?
+FTP
+DHCP
+ICMP
+SMTP
+APIPA
+209.What security technique could provide secure access to a server located in a small office without the expense of implementing a DMZ or purchasing a hardware firewall?
+implement hash encoding for all wireless devices
+implement MAC address filtering
+implement port forwarding
+implement basic security on all wireless access points
+210.A group of users is unable to connect to the network. When testing several of the PCs and issuing the command ipconfig, the technician notices that all of them have an IP address in the 169.254.x.x range. What is the most likely cause of this problem?
+The Internet connection is down.
+The DHCP server is not operational.
+The gateway address is incorrect.
+The DNS server is not operational.
+211.What is the correct compressed format of the IPv6 address 2001:0db8:eeff:000a:0000:0000:0000:0001?
+2001:db8:eeff:a::1
+2001:db8:eeff:a:1
+2001:db8:eeff:a::0001
+2001:db8:eeff:a:::1
+212.What is the proper CIDR prefix notation for a subnet mask of 255.0.0.0?
+/8
+/16
+/24
+/32
+213.A technician is configuring the channel on a wireless router to either 1, 6, or 11. What is the purpose of adjusting the channel?
+to disable broadcasting of the SSID
+to enable different 802.11 standards
+to provide stronger security modes
+to avoid interference from nearby wireless devices
+214.Which network server is malfunctioning if a user can ping the IP address of a web server but cannot ping the web server host name?
+ the DNS server
+the DHCP server
+the FTP server
+the HTTP server
+215.Multiple users report that the workstations are assigned a 169.254.x.x IP address. The users are able to communicate only between each other. What is a possible solution?
+Restart the DNS server.
+Statically configure a default gateway on each workstation.
+Verify the network cable on all user machines.
+Restart the DHCP server.
+216.An administrator deploys wireless access points across the office to provide wireless network connectivity to users. Each workstation receives an IP address via DHCP. After a file server with a static IP is connected to the wired network, the administrator receives an IP address conflict message. What is a possible solution?
+Restart the DHCP server.
+Change the IP address of the file server with the ipconfig /release and ipconfig /renew commands.
+Change the static IP configured on the file server.
+Connect the file server to the wireless network.
+217.A workstation has been moved from the first floor to the fifth floor within an organization. The user is now reporting that the workstation cannot connect to the network. A technician suspects that the workstation could not obtain an IP address from a DHCP server. What is a possible cause of the problem?
+An IP address conflict occurred.
+The DHCP server is misconfigured.
+The workstation has been configured with a static IP address.
+The default gateway address is misconfigured on the workstation.
+218.A device has been assigned the IPv6 address of 2001:0db8:cafe:4500:1000:00d8:0058:00ab/64. Which is the host identifier of the device?
+2001:0db8:cafe:4500:1000:00d8:0058:00ab
+2001:0db8:cafe:4500
+1000:00d8:0058:00ab
+00ab
+219.Which IPv6 address represents the most compressed form of the IPv6 address 2001:0db8:cafe:0000:0835:0000:0000:0aa0/80?
+2001:0db8:cafe:0000:0835::0aa0/80
+2001:db8:cafe:0000:0835::aa0/80
+2001:0db8:cafe:0000:0835::0aa/80
+2001:db8:cafe::0835::aa0/80
+2001:db8:cafe:0:835::aa0/80
+220.After having talked to the customer, a network technician suspects that an invalid IP address is the most likely cause of a network issue. Which step of the troubleshooting process does this represent?
+Identify the problem.
+Test the theory to determine the cause.
+Establish a theory of probable cause.
+Establish a plan of action to resolve the problem and implement the solution.
+221.Which filtering method uses the physical address to specify exactly which device is allowed or blocked from sending data on a network?
+MAC address filtering
+port forwarding
+port triggering
+whitelisting
+222.How many bits are used to represent an IPv6 address?
+ 128
+48
+32
+12
+223.How many bits are used to represent the host address of a computer with the IP address of 192.168.1.25 and a subnet mask of 255.255.255.0?
+8
+48
+32
+12
+224.How many bits are used to represent the host address of a computer with the IP address of 192.168.1.25 and a subnet mask of 255.255.255.0?
+8
+48
+32
+4
+225.How many bits are used to represent the host address of a computer with the IP address of 192.168.1.25 and a subnet mask of 255.255.255.0?
+8
+128
+32
+4
+226.How many bits are used to represent the network address of a host with an IP address of 192.168.150.16 and a subnet mask of 255.255.0.0?
+16
+128
+32
+4
+227.How many bits are used to represent the network address of a host with an IP address of 192.168.150.16 and a subnet mask of 255.255.0.0?
+16
+128
+32
+42
+228.How many bits are used to represent the OUI part of the MAC address of a NIC card?
+24
+8
+128
+42
+229.How many bits are used to represent the OUI part of the MAC address of a NIC card?
+ 24
+8
+128
+64
+230.How many bits are used to represent a MAC address?
+48
+8
+128
+64
+231.How many bits are used to represent a MAC address?
+48
+128
+8
+132
+232.A group of users is unable to connect to the network. When testing several of the PCs and issuing the command ipconfig , the technician notices that all of them have an IP address in the 169.254.x.x range. What is the most likely cause of this problem?
+The Internet connection is down.
+The DHCP server is not operational.
+The gateway address is incorrect.
+The DNS server is not operational.
+233.To clean laptops, which two products are recommended? (Choose two.)
+ cotton swabs
+mild cleaning solution
+ammonia
+rubbing alcohol
+car wax
+234.What are three common input devices found on laptops? (Choose three.)
+touchpad
+fingerprint reader
+web camera
+external monitor
+PS/2 keyboard
+AC power connector
+235.Which two statements are true of a laptop CPU when compared to a desktop CPU? (Choose two.)
+Laptop CPUs operate at higher clock speeds.
+Laptop CPUs use smaller cooling devices.
+Laptop CPUs consume more power.
+Laptop CPUs are interchangeable with desktop CPUs.
+Laptop CPUs are designed to produce less heat.
+236.A technician has been asked to decide which laptop components should be cleaned on a monthly basis as part of a maintenance routine. What are two examples of components that should be included? (Choose two.)
+exterior case
+keyboard
+CPU
+optical drive
+RAM
+237.What are two methods typically used on a mobile device to provide internet connectivity? (Choose two.)
+cellular
+Zigbee
+Wi-Fi
+Z-Wave
+GPS
+238.A customer brings a laptop into a computer repair shop. The technician can tell that the laptop is powered on by the power light, but nothing displays on the screen. What are two possible issues that could cause this symptom? (Choose two.)
+The backlight needs adjusting.
+The display properties need adjusting.
+The laptop has gone into sleep mode.
+The screen cutoff switch needs cleaning or is damaged.
+The video cable is loose.
+239.Which type of RAM modules are designed for the space limitations of laptops?
+SODIMMs
+SRAM
+SIMMs
+DIMMs
+240.What is a design consideration for mobile CPUs used in laptops compared with desktop CPUs?
+They are interchangeable with desktop CPUs.
+They require smaller cooling mechanisms than desktops do.
+They operate at higher clock speeds than desktops do.
+They consume more power than desktops do.
+241.Which protocol can be used to transfer messages from an email server to an email client?
+SMTP
+POP3
+SNMP
+HTTP
+242.What is a characteristic of laptop motherboards?
+Laptop motherboards use the same form factors as desktop motherboards.
+Laptop motherboards are proprietary.
+Laptop motherboards use standard form factors.
+Laptop motherboard components are compatible with desktop motherboards.
+243.What device setting is used to share the cellular WAN connection of a phone in order to allow other devices to connect to the Internet?
+mobile hotspot
+airplane mode
+Wake on LAN
+Wi-Fi
+244.Which laptop component is commonly found in the laptop lid?
+Wi-Fi antenna
+SODIMM
+motherboard
+power connector
+245.What is the purpose of a digitizer in a mobile device?
+to convert AC to DC
+to convert analog video signals to digital ones
+to convert digital music to analog for headphone delivery
+to convert user touch actions to digital input signals
+246.What type of backlight is used in an LED display?
+LCD
+LED
+CCFL
+light-generating pixels
+247.Where is an integrated microphone normally located on a laptop?
+near the exterior on either side of the keyboard by the plastic frame
+by the exterior ports
+in the top of the display
+under the keyboard near the pointing device or touchpad
+248.Which ACPI state turns the CPU and RAM off and copies the contents of RAM to a temporary file on the hard disk?
+S0
+S1
+S2
+S3
+S4
+249.What could be used in conjunction with a laptop in order to read flash media?
+SSD
+card reader
+M.2 card
+SO-DIMM
+250.Which step would be important in the removal of laptop memory?
+Align the memory module notch at a 45-degree angle and press to release.
+Attach an AC adapter before starting the procedure.
+Press outward on the clips that hold the memory module.
+Gently press down on the memory module until it releases from the slot.
+251.Which laptop component would be considered an FRU?
+SODIMM
+display
+battery
+external card reader
+252.Which characteristic should be considered when a replacement mobile device battery is being selected?
+It has the same power ratings.
+It is from the same manufacturer.
+It provides a warranty.
+It is a mini-ATX form factor.
+253.Which specialized mobile device is commonly used with VR and AR?
+fitness monitor
+smart watch
+headset
+e-reader
+254.Which cellular technology supports speeds up to 20 Gbps?
+Z-Wave
+Zigbee
+5G
+4G
+255.A technician is configuring a device and the device shows that it is pairing. Which mobile technology is being used?
+Wi-Fi
+Zigbee
+Bluetooth
+tethering
+256.Which app is used to synchronize data to an iOS-based mobile device?
+iTunes
+Auto Sync
+MIME
+SMTP
+257.A technician has been called on site to help a user who has a laptop problem. At which point should the technician look online for additional possible solutions to a laptop problem?
+after questioning the user
+before establishing a theory of probable cause
+after testing a theory to determine the cause
+after implementing preventive measures
+258.An employee wants to include pictures and documents when sending email messages on a mobile device. What technology allows this task to be accomplished?
+MIME
+airplane mode
+cloud service
+Bluetooth
+259.A lawyer wants to give a laptop the ability to connect to the internet through the cellular network. What technology allows this task to be accomplished?
+mobile hotspot
+airplane mode
+cloud service
+Bluetooth
+260.A lawyer wants to enable a smartphone to be used as a hands-free device. What technology allows this task to be accomplished?
+Bluetooth
+NFC
+GPS
+MIME
+261.A doctor wants to use a cell phone for entertainment without connecting to any networks. What technology allows this task to be accomplished?
+airplane mode
+NFC
+GPS
+MIME
+262.A doctor wants to make a backup copy of all of the data on a mobile device. What technology allows this task to be accomplished?
+cloud service
+NFC
+GPS
+MIME
+263.A student wants to make a backup copy of all of the data on a mobile device. What technology allows this task to be accomplished?
+cloud service
+NFC
+GPS
+MIME
+264.A student wants to make mobile phone calls over a wireless data network based on 802.11 technology. What technology allows this task to be accomplished?
+Wi-Fi calling
+NFC
+GPS
+MIME
+265.A salesperson wants to make mobile phone calls over a wireless data network based on 802.11 technology. What technology allows this task to be accomplished?
+Wi-Fi calling
+MIME
+GPS
+mobile hotspot
+266.A salesperson wants to embed the location on a digital photograph to record where it was taken. What technology allows this task to be accomplished?
+geotagging
+MIME
+GPS
+mobile hotspot
+267.A manager wants to have a laptop with touchscreen capabilities. What technology allows this task to be accomplished?
+digitizer
+MIME
+GPS
+mobile hotspot
+268.A student wants to make a backup copy of all of the data on a personal mobile device. What technology, product, or setting allows this task to be accomplished?
+cloud service
+digitizer
+geotagging
+VPN
+269.An employee wants to find an alternate route home because the usual route is blocked by an accident. What technology, product, or setting allows this task to be accomplished?
+GPS
+digitizer
+geotagging
+IDS
+270.A salesperson wants to embed geographical location metadata onto various media such as photographs and videos. What technology, product, or setting allows this task to be accomplished?
+ geotagging
+digitizer
+Wi-Fi calling
+RFID
+271.A lawyer wants to give a laptop the ability to access the internet through a cellular network. What technology, product, or setting allows this task to be accomplished?
+mobile hotspot
+digitizer
+geotagging
+RAID
+272.A manager wants to purchase a specialized mobile device for a new VR game. What technology, product, or setting allows this task to be accomplished?
+headset
+geotagging
+Wi-Fi calling
+IPS
+273.An executive wants to enable a cell phone to be used as a hands-free device. What technology, product, or setting allows this task to be accomplished?
+ Bluetooth
+digitizer
+geotagging
+firewall
+274.An analyst wants to communicate with the company while exercising and be able to track personal physical activity. What technology, product, or setting allows this task to be accomplished?
+smartwatch
+geotagging
+Wi-Fi calling
+QoS
+275.A student wants to make a backup copy of all of the data on a personal mobile device. What technology, product, or setting allows this task to be accomplished?
+cloud service
+NFC
+GPS
+virtualization
+276.An employee wants to pay for a product just by tapping a smartphone on a sensor. What technology, product, or setting allows this task to be accomplished?
+NFC
+GPS
+MIME
+IDS
+277.A salesperson wants to embed geographical location metadata onto various media such as photographs and videos. What technology, product, or setting allows this task to be accomplished?
+geotagging
+NFC
+GPS
+RFID
+278.A technician working on a cell phone must provide documentation regarding the phone. Where would the technician find the IMSI information?
+on the phone information label
+on the SIM card or programmed on the phone
+under the battery
+within phone contacts
+279.An entrepreneur is opening a computer store in a small town and wants to display a few laptops in the store, but is concerned about security. What physical laptop feature might assist in addressing this issue?
+GPS
+IR
+LoJack
+security slot
+280.A technician is troubleshooting a laptop with an unresponsive touchscreen. What could be the probable cause?
+The digitizer is faulty.
+The DC jack is not grounded or is loose.
+The battery is not seated properly.
+The screen is dirty.
+281.A technician is working on a laptop and the GPS is not functioning. What is a probable cause for this situation?
+A service is disabled.
+Bluetooth is activated.
+The battery is low.
+The display setting is incorrect.
+282.A technician is working on a laptop and the GPS is not functioning. What is a probable cause for this situation?
+A service is disabled.
+The GPU is overheating.
+The battery is low.
+The display setting is incorrect.
+283.A technician is working on a laptop and the GPS is not functioning. What is a probable cause for this situation?
+Airplane mode is turned on.
+Wi-Fi is turned off.
+The battery is low.
+The display setting is incorrect.
+284.A technician is working on a laptop and an app is not loading. What is a probable cause for this situation?
+An app needs to be restarted.
+More than one app is open simultaneously.
+The battery is low.
+The display setting is incorrect.
+285.A technician is working on a laptop and an app is not loading. What is a probable cause for this situation?
+An app needs to be restarted.
+The Num Lock key is depressed.
+The display setting is incorrect.
+The screen refresh rate is too low.
+286.A technician is working on a laptop and an app is not responding. What is a probable cause for this situation?
+An app needs to be restarted.
+The battery is low.
+The Num Lock key is depressed.
+The display setting is incorrect.
+287.A technician is working on a laptop and an error message about decryption appears when opening an email. What is a probable cause for this situation?
+A digital certificate is missing.
+The display setting is incorrect.
+The Num Lock key is depressed.
+The battery is low.
+288.A technician is working on a laptop and an error message about decryption appears when opening an email. What is a probable cause for this situation?
+A digital certificate is missing.
+The screen refresh rate is too low.
+The Num Lock key is depressed.
+The battery is low.
+289.A technician is working on a laptop and an error message about decryption appears when opening an email. What is a probable cause for this situation?
+The security certificate is not recognized.
+The screen resolution needs recalibration.
+The Num Lock key is depressed.
+The battery is low.
+290.A technician is working on a laptop and an error message about decryption appears when opening an email. What is a probable cause for this situation?
+The security certificate is not recognized.
+Bluetooth is activated.
+The Num Lock key is depressed.
+The battery is low.
+291.Match the common printer configuration options to the correct descriptions. (Not all options are used.)
+292.What are two cables that are used to connect a computer to a printer? (Choose two.)
+serial
+FireWire
+PS/2
+HDMI
+eSATA
+293.What are two functions of a print server? (Choose two.)
+provide print resources to all connected client computers
+store print jobs in a queue until the printer is ready
+ensure that the connected client computers have up-to-date printer drivers
+store backups of documents sent to the printer
+provide uninterrupted power to the printer
+294.What are two methods to connect to a printer wirelessly? (Choose two.)
+IEEE 802.11 standards
+Bluetooth
+WiMax
+satellite
+microwave
+295.What are two probable causes for printer paper jams? (Choose two.)
+high humidity
+the wrong type of paper
+a defective print cartridge
+misaligned print heads
+an incorrect print driver
+296.Which factor affects the speed of an inkjet printer?
+the desired quality of the image
+the size of printer power supply
+the quality of the paper
+the cost of the inkjet cartridges
+297.What is a characteristic of thermal inkjet nozzles?
+The heat creates a bubble of steam in the chamber.
+Heat is applied to the ink reservoir of each nozzle.
+The vibration of the crystal controls the flow of ink.
+A charge is applied to the printhead.
+298.In laser printing, what is the name of the process of applying toner to the latent image on the drum?
+developing
+charging
+transferring
+fusing
+299.What is the purpose of the Additional Drivers button in the Sharing tab of the Printer Properties?
+ to add additional drivers for other operating systems
+to add additional drivers for other printers in the network
+to add additional drivers for duplex printing
+to add additional drivers for other printers connected to the computer
+300.A Windows 7 computer has several printers configured in the Control Panel Devices and Printers window. Which printer will the computer choose to be the first option for printing?
+the printer that is set as the default printer
+the software-based printer that is used to create PDF files
+the software-based printer that is used to create XPS files
+a manual selection, which is always needed
+301.Which type of print server provides the most functions and capabilities?
+a dedicated PC print server
+a computer-shared print server
+a hardware print server
+a print server that is implemented in software
+302.A user discovers that an inkjet color printer is printing different colors from those that are shown on the screen. What can be done to solve this problem?
+Calibrate the printer.
+Adjust the printer spool.
+Replace the fuser.
+Replace the drum.
+303.What is a characteristic of global and per-document options in print settings?
+Per-document options override global options.
+Global options take precedence over per-document options.
+It is not possible to configure per-document options.
+It is not possible to configure global options.
+304.After applying a solution to a printer problem, a technician restarts the printer and prints a test page. Which step of the troubleshooting process is the technician applying?
+verifying the solution and system functionality
+identifying the problem
+testing a theory to determine the cause of the problem
+documenting findings, actions, and outcomes
+305.A technician recorded that a new fuser roller unit was installed in a laser printer to solve a printing problem. Which step in the troubleshooting process did the technician just perform?
+documenting findings, actions, and outcomes
+verifying the solution and system functionality
+identifying the problem
+testing a theory to determine the cause of the problem
+306.Which action supports an effective printer preventive maintenance program?
+Reset the printer page counters if available.
+Replace laser printer toner at set predetermined time intervals.
+Clean inkjet print heads when they stop working.
+Disconnect the printer from the power source when it is not in use.
+307.How can the life of a thermal printer be extended?
+ Clean the heating element regularly with isopropyl alcohol.
+Clean the inside of the printer with a vacuum cleaner with a HEPA filter.
+Keep the paper dry in a low humidity environment.
+Wipe the outside of the printer with a damp cloth.
+308.In Windows 8, what must be configured to enable one user to share a USB-connected printer with another user on the same network?
+Windows firewall
+Windows Defender
+IEEE 802.11
+File and printer sharing
+virtualization option in BIOS
+309.The users on a LAN are reporting that computers respond slowly whenever high resolution photographs are being printed on the color laser printer. What would be the cause of this problem?
+The printer does not have enough memory to buffer an entire photograph.
+The printer is not configured for duplex printing.
+The paper is not adequate for photograph printing.
+The printer is not configured for the proper paper orientation.
+310.A technician is installing a printer that will be directly connected to a computer. Why does the technician not connect the printer initially during the installation process?
+The printer needs to be configured first.
+The OS of the workstation needs to be updated first.
+The printer driver might need to be installed first before the printer is connected.
+The Microsoft download site needs to be searched first for the printer driver.
+311.Which statement describes a printer driver?
+It is the interface in Windows that identifies a unique printer attached to the workstation.
+It is cache inside a printer that stores documents to be printed in a queue.
+It is software that converts a document into the format that a printer can understand.
+It is the configuration code that is sent to a printer to identify the operating system of the workstation.
+312.What type of connection would be used to connect a printer directly to the network?
+Ethernet
+serial
+USB
+Firewire
+313.What mechanism is used in a laser printer to permanently fuse the toner to the paper?
+heat
+electrical charge
+pressure
+light
+314.What corrective action would a technician take in response to a print spooler error?
+reboot the printer
+restart the print spooler
+update the printer driver
+clean the printer
+315.What corrective action should be taken if a printer is printing faded images?
+secure loose printer cables
+update the print driver
+clean the printer
+replace the toner cartridge
+316.What would cause an inkjet printer to fail to print any pages?
+The printer software is set to toner save.
+The printer ribbon is worn out.
+The ink cartridge is empty.
+The printer is loaded with a paper type other than photo paper.
+317.A user tells a technician that the printer does not respond to attempts to print a document. The technician attempts to print a document and the printer does not output any pages. The technician notices that the printer LCD display is blank and unlit. What is most likely the problem?
+The screen contrast is too low.
+The printer is not turned on.
+The printer is out of ink.
+The print head is clogged.
+318.A technician is complaining about the following printer issue: The toner is not fusing to the paper. What are two possible causes of this issue? (Choose two.)
+The toner cartridge is defective.
+The paper might be incompatible with the printer.
+A test page was never printed.
+The laser printer is emitting too much radiation.
+The printer lid has not been closed securely.
+319.A librarian is complaining about the following printer issue: My impact printer produces faded or light characters. What are two possible causes of this issue? (Choose two.)
+The ribbon may be worn out.
+The ribbon may be damaged.
+The printer does not have enough RAM.
+The wrong printer type has been selected.
+The laser printer is emitting too much radiation.
+320.A teacher is complaining about the following printer issue: The paper is creased after printing. What are two possible causes of this issue? (Choose two.)
+The paper-feed tray might not be firmly adjusted against the edges of the printer.
+The paper might be loaded incorrectly.
+The printer has been installed on the wrong port.
+The wrong printer type has been selected.
+The laser printer is emitting too much radiation.
+321.A receptionist is complaining about the following printer issue: The print queue seems to be functioning properly, but the printer does not print. What are two possible causes of this issue? (Choose two.)
+There is a bad cable connection.
+The printer has an error such as out of paper, out of toner, or paper jam.
+The print queue is overloaded.
+The wrong printer type has been selected.
+The laser printer is emitting too much radiation.
+322.A photographer is complaining about the following printer issue: The printer issues a “Document failed to print” message. What are two possible causes of this issue? (Choose two.)
+A cable is loose or disconnected.
+The printer is no longer shared.
+The paper tray is flimsy.
+The wrong printer type has been selected.
+The laser printer is emitting too much radiation.
+323.A reporter is complaining about the following printer issue: The paper jams when the printer is printing. What are two possible causes of this issue? (Choose two.)
+The printer could be dirty.
+The humidity could be high and that causes the paper to stick together.
+The laser printer is emitting too much radiation.
+The wrong printer type has been selected.
+The printer lid has not been closed securely.
+324.A manager is complaining about the following printer issue: The ink printer is printing blank pages. What are two possible causes of this issue? (Choose two.)
+The print head is clogged.
+The printer is out of ink or toner.
+The printer is using the wrong cable.
+The wrong printer type has been selected.
+The laser printer is emitting too much radiation.
+325.A technician is complaining about the following printer issue: The print appears faded on the paper. What are two possible causes of this issue? (Choose two.)
+The toner cartridge is low.
+The paper might be incompatible with the printer.
+A test page was never printed.
+The room temperature is above normal.
+The printer is using the wrong cable.
+326.A librarian is complaining about the following printer issue: The printer control panel displays no image. What are two possible causes of this issue? (Choose two.)
+The contrast of the screen may be set too low.
+The printer is not turned on.
+The room temperature is above normal.
+The printer does not have enough RAM.
+The printer is using the wrong cable.
+327.A teacher is complaining about the following printer issue: The paper is creased after printing. What are two possible causes of this issue? (Choose two.)
+&nbsp;
+The paper-feed tray might not be firmly adjusted against the edges of the printer.
+The paper might be loaded incorrectly.
+Print jobs are being sent to the wrong printer.
+The room temperature is above normal.
+The printer is using the wrong cable.
+328.All documents printed by the laser printer in the branch office have ghost or shadow images appearing on the paper. What should the technician do to resolve the issue?
+ Replace the drum.
+Configure the printer for duplex printing.
+Update the OS.
+Update the BIOS.
+Check the vibration of the crystals.
+329.An office assistant in a law firm is trying to print many large legal documents but is getting &#8220;memory overload&#8221; error messages from the printer. What should the technician do to resolve the issue?
+Add more memory to the printer.
+Replace the pickup roller.
+Check the vibration of the crystals.
+Install a USB hub.
+Connect the printer using wireless.
+330.A reporter is trying to print several high resolution photographs but the color laser printer is going extremely slowly. What should the technician do to resolve the issue?
+ Add more RAM to the printer.
+Replace the pickup roller.
+Check the vibration of the crystals.
+Install a USB hub.
+Connect the printer using wireless.
+331.A reporter is trying to print several high resolution photographs but the color laser printer is going extremely slowly. What should the technician do to resolve the issue?
+Add more RAM to the printer.
+Rewind the ribbon.
+Install a USB hub.
+Connect the printer using wireless.
+Update the BIOS.
+332.A new printer has just been installed deep in a mine. When test pages are printed, the paper constantly jams. What should the technician do to resolve the issue?
+Move the printer to a less-humid location.
+Rewind the ribbon.
+Install a USB hub.
+Connect the printer using wireless.
+Update the BIOS.
+333.A new printer has just been installed deep in a mine. When test pages are printed, the paper constantly jams. What should the technician do to resolve the issue?
+Move the printer to a less-humid location.
+Clean the printer.
+Install a USB hub.
+Connect the printer using wireless.
+Update the BIOS.
+334.A user complains that recently every printed document has vertical lines and streaks on the paper. What should the technician do to resolve the issue?
+Distribute the toner more evenly within the cartridge.
+Clean the printer.
+Install a USB hub.
+Connect the printer using wireless.
+Update the BIOS.
+335.A school is installing a new shared printer but the printer is not showing up on the list of available printers. What should the technician do to resolve the issue?
+Manually add the printer IP address.
+Reset the page counter.
+Install a USB hub.
+Connect the printer using wireless.
+Update the BIOS.
+336.A school is installing a new shared printer but the printer is not showing up on the list of available printers. What should the technician do to resolve the issue?
+Manually add the printer IP address.
+Reset the page counter.
+Rewind the ribbon.
+Clean the printer.
+Check the vibration of the crystals.
+337.Employees are complaining that they send print jobs to a newly installed printer but the print jobs never print. What should the technician do to resolve the issue?
+The printer is connected to the wrong port. Modify the port.
+Check the vibration of the crystals.
+Rewind the ribbon.
+Clean the printer.
+Reset the page counter.
+338.A small company is moving towards sharing printers to reduce the number of printers used within the company. The technician has security concerns. What security risk is associated with sharing a printer?
+data privacy
+dumpster diving
+shoulder surfing
+replay attacks
+339.A technician is programming a wireless printer to connect to the wireless network and communicate wirelessly with nearby devices. Which two wireless modes are used for wireless printer connectivity? (Choose two.)
+ad hoc
+hands-free
+infrastructure
+IR
+cloud-based
+340.Users have noticed that the colors on their printed documents are different from the colors that they see on their computer screens. What should the technician do to resolve the issue?
+Calibrate the printer.
+Install a USB hub.
+Configure the printer for duplex printing.
+Power cycle the printer.
+Update the OS.
+341.A technician has just completed a preventive maintenance on the department printer. Users are now complaining that the printer is no longer available. What should the technician do to resolve the issue?
+Check that the printer is plugged into a power source.
+Connect the printer using wireless.
+Configure the printer for duplex printing.
+Power cycle the printer.
+Update the OS.
+342.Employees of a small business are complaining that the printer is printing faded images. What should the technician do to resolve the issue?
+Replace the toner cartridge.
+Update the BIOS.
+Reset the page counter.
+Clean the printer.
+Check the vibration of the crystals.
+343.A user is complaining that the printer is printing pages with no image on them. What should the technician do to resolve the issue?
+Replace the toner cartridge.
+Update the OS.
+Reset the page counter.
+Clean the printer.
+Check the vibration of the crystals.
+344.A manager is complaining that the toner is coming off the pages printed by the laser printer. What should the technician do to resolve the issue?
+Replace the fuser.
+Update the OS.
+Reset the page counter.
+Clean the printer.
+Check the vibration of the crystals.
+345.Match the definition to the type of cloud.
+346.A software engineer is involved in the development of an application. For usability tests, the engineer needs to make sure that the application will work in both Windows 7 and Windows 8 environments. The features and functions must be verified in the actual OS environment. The engineer is using a Windows 7 workstation. What two technologies can help the engineer achieve the usability tests? (Choose two.)
+dual boot
+two separate CPUs
+storage redundancy
+client-side virtualization
+two separate hard disks
+347.Which two business and technical challenges does implementing virtualization within a data center help businesses to overcome? (Choose two.)
+server hardware needs
+physical footprint
+power and air conditioning
+operating system license requirements
+virus and spyware attacks
+348.What are two advantages of using PC virtualization? (Choose two.)
+It prevents viruses and worms from functioning in a virtualized environment.
+It allows multiple operating systems to run on a single PC simultaneously.
+It boosts the performance of the host machine through virtualization.
+It can provide cost savings.
+It allows network threat identification.
+349.A small company is considering moving many of its data center functions to the cloud. What are three advantages of this plan? (Choose three.)
+The company only needs to pay for the amount of processing and storage capacity that it uses.
+Cloud services are billed at a fixed fee no matter how much processing and storage are used by the company.
+Cloud services enable the company to own and administer its own servers and storage devices.
+The company can increase processing and storage capacity as needed and then decrease capacity when it is no longer needed.
+Single-tenant data centers can easily grow to accommodate increasing data storage requirements.
+The company does not need to be concerned about how to handle increasing data storage and processing demands with in-house data center equipment.
+350.A college uses virtualization technology to deploy information security courses. Some of the lab exercises involve studying the characteristics of computer viruses and worms. What is an advantage of conducting the lab exercises inside the virtualized environment as opposed to using actual PCs?
+The lab exercises are performed faster inside of the virtualized environment.
+The virtualization environment has better tools to develop mitigation solutions.
+Virus and worm attacks are more easily controlled in a virtualized environment, thus helping to protect the college network and its devices from attack.​
+The viruses and worms will have limited functionality inside the virtualized environment.
+351.What technology allows users to access data anywhere and at any time?
+data analytics
+Cloud computing
+virtualization
+micromarketing
+352.True or False.
+353.Cloud computing and virtualization are different terms that refer to the same thing.
+true
+false
+354.How does virtualization help with disaster recovery within a data center?
+guarantee of power
+support of live migration
+supply of consistent air flow
+improvement of business practices
+355.Which type of hypervisor would most likely be used in a data center?
+Type 1
+Type 2
+Nexus
+Hadoop
+356.What is the main function of a hypervisor?
+It is a device that filters and checks security credentials.
+It is used to create and manage multiple VM instances on a host machine.
+It is used by ISPs to monitor cloud computing resources.
+It is software used to coordinate and prepare data for analysis.
+It is a device that synchronizes a group of sensors.
+357.Which statement describes a characteristic of cloud computing?
+A business can connect directly to the Internet without the use of an ISP.
+Applications can be accessed over the Internet by individual users or businesses using any device, anywhere in the world.
+Devices can connect to the Internet through existing electrical wiring.
+Investment in new infrastructure is required in order to access the cloud.
+358.A technician needs to use an application that is not supported by Windows operating systems on the PC. How can the technician make this application run on the PC?
+Use the Windows Compatibility mode.
+Install the application with elevated permissions as administrator.
+Create a virtual machine with an operating system that supports the application.
+Install the application in safe mode.
+359.Which Cloud computing service would be best for an organization that does not have the technical knowledge to host and maintain applications at their local site?
+SaaS
+IaaS
+PaaS
+ITaaS
+360.What is a difference between the functions of Cloud computing and virtualization?
+Cloud computing utilizes data center technology whereas virtualization is not used in data centers.
+Cloud computing requires hypervisor technology whereas virtualization is a fault tolerance technology.
+Cloud computing separates the application from the hardware whereas virtualization separates the OS from the underlying hardware.
+Cloud computing provides services on web-based access whereas virtualization provides services on data access through virtualized Internet connections.
+361.Which is a characteristic of a Type 1 hypervisor?​
+does not require management console software
+installed directly on a server​
+installed on an existing operating system​
+best suited for consumers and not for an enterprise environment
+362.Which is a characteristic of a Type 2 hypervisor?​
+best suited for enterprise environments
+installs directly on hardware
+has direct access to server hardware resources
+does not require management console software
+363.Which cloud model provides services for a specific organization or entity?
+a hybrid cloud
+a community cloud
+a public cloud
+a private cloud
+364.Which type of Hypervisor is implemented when a user with a laptop running the Mac OS installs a Windows virtual OS instance?
+virtual machine
+bare metal
+type 1
+type 2
+365.A training company offers many application courses based on Windows. The company is looking for a solution to provide a hands-on learning and practice environment to remote learners. The goal is to provide a uniform learning environment to all users. Which cloud-based solution would help the company to achieve the goal?
+Office 365
+Google Drive
+virtual application stream
+virtual desktop infrastructure
+366.A small college wishes to deploy a leaning management system (LMS) and is looking for a hosted solution. Which type of cloud-based solution would help the college to achieve the goal?
+Dropbox
+Office 365
+virtual application stream
+virtual desktop infrastructure
+367.A freelance reporter wishes to use a service that allows files to be accessed at any time from any device. Whenever the reporter starts the laptop and connects to the internet, the files stored on the laptop must be synchronized with the service automatically. Which solution will meet the requirements?
+Dropbox
+Office 365
+Exchange Online
+virtual desktop infrastructure
+368.A software company has groups of developers located in different cities around the world. The company is using a cloud-based development environment so that all developers can access the same software development tools. Which cloud service is used by the company?
+IaaS
+PaaS
+SaaS
+ITaaS
+369.An international civil engineering association has members from all over the world. The research division of the association plans to have a cloud-based service to share research ideas and to promote collaboration among members in multiple divisions of the association. Which cloud model is suitable for them?
+public
+hybrid
+private
+community
+370.A computer user logs a problem stating that the computer is emitting a loud clicking noise. Which device should the technician check first?
+hard drive
+CPU fan
+power supply
+motherboard
+371.A computer user logs a problem stating that the computer is emitting a loud clicking noise. Which device should the technician check first?
+ hard drive
+CPU
+power supply
+motherboard
+372.While a technician is installing a printer, the technician hears a loud clicking noise. Which device should the technician check first?
+hard drive
+RAM
+power supply
+motherboard
+373.While working in a computer training room, the technician notices that one computer emits a loud clicking noise. Which device should the technician check first?
+hard drive
+sound card
+power supply
+motherboard
+374.While working in a computer training room, the technician notices that one computer emits a loud clicking noise. Which device should the technician check first?
+ hard drive
+sound card
+internal speaker
+RAM
+375.Every time a user turns on the computer in the morning, the user hears a loud clicking noise. Which device should the technician check first?
+hard drive
+internal speaker
+sound card
+RAM
+376.Every time a user turns on the computer in the morning, the user hears a loud clicking noise. Which device should the technician check first?
+hard drive
+optical drive
+internal speaker
+sound card
+377.When a co-worker steps into another office, the co-worker notices that the computer is making a loud clicking noise and asks about it. The technician is contacted to investigate. Which device should the technician check first?
+ hard drive
+monitor
+internal speaker
+sound card
+378.When a user turns on a workstation, the screen displays an &#8220;Invalid Boot Disk&#8221; error. The user calls the help desk. Which device should the technician check first?
+hard drive
+power supply
+internal speaker
+sound card
+379.When a user turns on a workstation, the screen displays an &#8220;Invalid Boot Disk&#8221; error. The user calls the help desk. Which device should the technician check first?
+ hard drive
+motherboard
+internal speaker
+sound card
+380.What are two types of computer user interface? (Choose two.)
+CLI
+PnP
+GUI
+OpenGL
+API
+381.What are two default account types provided by Windows 10? (Choose two.)
+Guest
+Users
+Administrator
+Standard User
+DefaultAccount
+382.Which term best describes the process of breaking a program into smaller parts that can be loaded as needed by the operating system?
+multithreading​
+multiprocessing
+multiuser​
+multitasking​
+383.What is the default file system used during a fresh installation of Windows 7?
+NTFS
+HPFS
+FAT16
+FAT32
+384.A user installs a new sound card driver in a computer that is working properly. After the installation of the drivers for the new sound card, the computer fails to boot. Which quick fix can the user implement to return to the previous working state?
+Boot to Emergency Recovery State.
+Boot to Last Known Good Configuration.
+Boot to Recovery Console.
+Boot to Start Windows Normally.
+385.What is a possible situation when it might be necessary to boot Windows 7 from a USB device, a CD, or a DVD?
+to disable background services
+to delete registry keys
+to partition the hard drive
+to repair the system
+386.What feature of an operating system allows it to support two or more CPUs?
+multiprocessing
+multitasking
+multiuser support
+multithreading
+387.What term is used to describe a logical drive that can be formatted to store data?
+volume
+track
+sector
+cluster
+partition
+388.Which key, when pressed during the boot process, will allow the user to choose to start Windows in safe mode?
+F8
+F1
+Esc
+Windows
+389.Which file system is used to access files over a network?
+NFS
+NTFS
+FAT
+CDFS
+390.Which statement is a feature of the Windows 8 operating system?
+It supports a touch screen interface.
+It uses the Aero user interface.
+It can be directly upgraded from Windows XP.
+It is a 128-bit operating system.
+391.Which component of a CPU architecture allows the CPU immediate access to data?
+registers
+cache
+RAM
+CMOS
+392.When would the PXE option be used when repairing a PC?
+The display cannot be seen clearly.
+There is no response from the mouse or keyboard.
+The computer needs a replacement operating system.
+A newly installed application caused the system to perform erratically.
+393.Which statement accurately describes the GUID partition table?
+It is 512 bytes long and contains the boot loader.
+It cannot be used in a multiboot environment.
+It is commonly used in computers with UEFI firmware.
+It is not supported by Windows 10 Home edition.
+394.Which statement describes dynamic disks in a PC that is running Windows 10 Pro?
+They have the ability to create volumes that span across more than one disk.
+Free space can only be added from the same disk to extend the volume.
+A partition created on a dynamic disk can be shrunk without deleting the partition first.
+More space can be added to a partition by extending it into adjacent, unallocated space, as long as it is contiguous.
+395.A technician wishes to deploy Windows 10 Pro upgrade to a group of employee PCs on the network and ensure that the user state migrates successfully. Which tool would the technician use to do this?
+User State Migration
+Windows Easy Transfer
+PCmover Express
+Windows 10 Update Assistant
+396.Which operating system does not support Windows Easy Transfer to transfer information from one computer to another?
+Windows 8
+Windows 10
+Windows Vista
+Windows 7
+397.Which command line utility was developed by Microsoft to allow users to transfer files and settings to a new edition of Windows OS during an upgrade to Windows 10?
+PCmover Express
+Windows Easy Transfer
+User State Migration Tool
+Windows Upgrade Assistant
+398.Which operation in Windows 10 is limited to users with Administrator privileges only?
+Run applications.
+Modify user settings.
+Change system settings.
+Install software programs.
+399.Which program file is loaded by the boot manager in a Windows boot process?
+winload.exe
+sysprep.exe
+ntoskrnl.exe
+winlogon.exe
+400.At the end of the boot process of Windows 10, the login program file winlogon.exe loads. Which program loads winlogon.exe?
+hal.dll
+winload.exe
+ntoskrnl.exe
+sysprep.exe
+401.Which tab would be used to set the priority for a process in Windows 10 Task Manager?
+Details
+Performance
+Startup
+Services
+402.Which statement describes a primary partition?
+It is a physical section of a hard disk. It can contain an operating system to boot the system and cannot be subdivided.
+It is a section of an extended partition on an MBR. It can be used to separate information for administrative purposes.
+It is a type of disk with the ability to create volumes that span across more than one disk even if the unallocated space is noncontiguous.
+It is often used to organize data storage by subdividing it into as many as 23 logical sections.
+403.Which statement describes formatting?
+It is a process to create a file system in a partition or volume for file storage.
+It is often used to organize data storage by subdividing it into as many as 23 logical sections.
+It is a section of an extended partition on an MBR. It can be used to separate information for administrative purposes.
+It is used to boot an operating system by default.
+404.Which statement describes the active partition?
+It is used to boot an operating system by default.
+It is a section of an extended partition on an MBR. It can be used to separate information for administrative purposes.
+It is a type of disk with the ability to create volumes that span across more than one disk even if the unallocated space is noncontiguous.
+It is often used to organize data storage by subdividing it into as many as 23 logical sections.
+405.Which statement describes formatting?
+It is a process to create a file system in a partition or volume for file storage.
+It is often used to organize data storage by subdividing it into as many as 23 logical sections.
+It is a section of an extended partition on an MBR. It can be used to separate information for administrative purposes.
+It is a section of the disk, that is inaccessible to the user, containing an image that can be used to restore the computer to its original configuration.
+406.Which statement describes the active partition?
+It is used to boot an operating system by default.
+It is a section of the disk, that is inaccessible to the user, containing an image that can be used to restore the computer to its original configuration.
+It is a process to create a file system in a partition or volume for file storage.
+It is a type of disk with the ability to create volumes that span across more than one disk even if the unallocated space is noncontiguous.
+407.Which statement describes a recovery partition?
+It is a section of the disk, that is inaccessible to the user, containing an image that can be used to restore the computer to its original configuration.
+It is a process to create a file system in a partition or volume for file storage.
+It is a type of disk with the ability to create volumes that span across more than one disk even if the unallocated space is noncontiguous.
+It is a section of an extended partition on an MBR. It can be used to separate information for administrative purposes.
+408.Which statement describes an extended partition?
+It is often used to organize data storage by subdividing it into as many as 23 logical sections.
+It is a section of the disk, that is inaccessible to the user, containing an image that can be used to restore the computer to its original configuration.
+It is a process to create a file system in a partition or volume for file storage.
+It is a type of disk with the ability to create volumes that span across more than one disk even if the unallocated space is noncontiguous.
+409.Which statement describes the master boot record (MBR)?
+ It takes the first 512 bytes on the disk and contains the boot loader, an executable program that allows a user to choose from multiple operating systems.
+It is a section of the disk, that is inaccessible to the user, containing an image that can be used to restore the computer to its original configuration.
+It is a process to create a file system in a partition or volume for file storage.
+It is a type of disk with the ability to create volumes that span across more than one disk even if the unallocated space is noncontiguous.
+410.Which statement describes a logical drive?
+It is a section of an extended partition on an MBR. It can be used to separate information for administrative purposes.
+It is a section of the disk, that is inaccessible to the user, containing an image that can be used to restore the computer to its original configuration.
+It is a process to create a file system in a partition or volume for file storage.
+It is a type of disk with the ability to create volumes that span across more than one disk even if the unallocated space is noncontiguous.
+411.Which statement describes the master boot record (MBR)?
+It takes the first 512 bytes on the disk and contains the boot loader, an executable program that allows a user to choose from multiple operating systems.
+It is a process to create a file system in a partition or volume for file storage.
+It is a type of disk with the ability to create volumes that span across more than one disk even if the unallocated space is noncontiguous.
+It is a section of an extended partition on an MBR. It can be used to separate information for administrative purposes.
+412.A technician has just purchased a new Windows 10 PC and wants to transfer selected files, folders, profiles, and applications from the old Windows PC. What tool or utility would be the best choice for the user?
+PCmover Express
+Upgrade Assistant
+User State Migration Tool
+Windows Task Manager
+413.A manager wants to install Windows 10 directly onto a computer and needs help with the setup process. What tool or utility would be the best choice for the user?
+Upgrade Assistant
+User State Migration Tool
+Windows Easy Transfer
+Windows Boot Manager
+414.A technician needs to capture the company user accounts, files, operating system settings, and application settings for migration into the new Windows 10 installation. What tool or utility would be the best choice for the user?
+User State Migration Tool
+Upgrade Assistant
+Windows Easy Transfer
+WinLoad
+415.A support technician wants to upgrade a system to Windows 10 but is unsure whether the hardware and software on the existing system are compatible. What tool or utility would be the best choice for the user?
+ Get Windows 10 app
+Upgrade Assistant
+User State Migration Tool
+Cortana Virtual Assistant
+416.An analyst is running Windows 7 on the PC and is planning to migrate to Windows 8.1. The analyst wants help migrating the personal files and settings into the newer version. What tool or utility would be the best choice for the user?
+Windows Easy Transfer
+Upgrade Assistant
+User State Migration Tool
+Application manager
+417.A manager wants to install Windows 10 directly onto a computer and needs help with the setup process. What tool or utility would be the best choice for the user?
+Upgrade Assistant
+Windows Easy Transfer
+PCmover Express
+Windows Boot Manager
+418.An analyst is running Windows 7 on the PC and is planning to migrate to Windows 8.1. The analyst wants help migrating the personal files and settings into the newer version. What tool or utility would be the best choice for the user?
+Windows Easy Transfer
+User State Migration Tool
+PCmover Express
+Application manager
+419.A technician has just purchased a new Windows 10 PC and wants to transfer selected files, folders, profiles, and applications from the old Windows PC. What tool or utility would be the best choice for the user?
+PCmover Express
+User State Migration Tool
+Windows Easy Transfer
+Windows Task Manager
+420.A technician needs to capture the company user accounts, files, operating system settings, and application settings for migration into the new Windows 10 installation. What tool or utility would be the best choice for the user?
+User State Migration Tool
+Windows Easy Transfer
+PCmover Express
+WinLoad
+421.A support technician wants to upgrade a system to Windows 10 but is unsure whether the hardware and software on the existing system are compatible. What tool or utility would be the best choice for the user?
+Get Windows 10 app
+User State Migration Tool
+Windows Easy Transfer
+Cortana Virtual Assistant
+422.True or False? Smartphones require an operating system before they can be operated.
+True
+False
+423.True or False? Modern operating systems boot the computer, manage the file system, and support only one user, task, or CPU.
+False
+True
+424.True or False? When a hardware device is installed, the operating system needs to use a device driver to access and use that hardware.
+True
+False
+425.True or False? When a user is working on a system that uses a network file system, there is no difference between accessing a file stored locally or on another computer on the network.
+True
+False
+426.True or False? Windows 10 64-bit version can be installed on as little as 1GB of hard drive space.
+False
+True
+427.True or False? DirectX is a collection of APIs related to multimedia tasks for Microsoft Windows.
+True
+False
+428.True or False? The registry is a database that only contains information about the device drivers on a computer.
+False
+True
+429.True or False? Multitasking describes a computer operating system that is capable of running multiple applications at the same time.
+True
+False
+430.True or False? Multithreading describes an operating system that can support two or more CPUs.
+ False
+True
+431.True or False? A 32-bit operating system can address up to a maximum of 4 GB of RAM.
+True
+False
+432.Match the folders in a 32-bit Windows 10 PC to their description. (Not all options are used.)
+&nbsp;
+433.Match the categories in the Windows 10 Control Panel to the function.
+&nbsp;
+434.Match the Internet Options to the descriptions used to configure Microsoft Internet Explorer. (Not all options are used.)
+&nbsp;
+435.Match the Windows 10 Registry key with its description. (Not all options are used.)
+&nbsp;
+436.Match the message types in the Windows 10 Event Viewer with their description. (Not all options are used.)
+&nbsp;
+437.Which three levels of RAID are supported by Windows 10 Pro? (Choose three.)
+0
+1
+3
+4
+5
+438.A technician is troubleshooting a PC. The display shows an &#8220;Invalid Boot Disk&#8221; error after the POST. What is a probable cause?
+The MBR is corrupted.
+A process is using most of the CPU resources.
+The date and time have been changed in the BIOS and do not reflect the correct time and date.
+The PC does not have a floppy drive or the floppy drive is broken.
+The PC has a BIOS password.
+439.A technician notices that a program that is listed in the registry of a Windows computer is not found on that computer. What is a possible solution to the problem?
+Run fdisk /mbr from the command prompt.
+Reinstall the application. Then, run the uninstall program.
+Restore the boot.ini file from the installation media.
+Restore the ntdetect.com file from the installation media.
+440.Which question is an open ended question that could be used when helping a customer troubleshoot a Windows problem?
+Can you boot the operating system?
+Have you changed your password recently?
+Do you get a login prompt when the computer boots?
+What programs have you installed recently?
+441.A technician has been asked to reinstall the OS on a computer that has a corrupted operating system. The technician inserts the installation media in the optical drive. What would be the most likely action the technician should perform next?
+Change the boot sequence in the BIOS.
+Change the BIOS password.
+Flash the BIOS for a firmware upgrade.
+Change clock speeds in the BIOS.
+442.A technician has successfully removed malware from a PC and finds that when the system is rebooted error messages are displayed about missing and corrupt system files. What utility can the technician use to replace or fix any corrupted system files?
+ASR
+Fixboot
+Fixmbr
+Regedit
+SFC
+443.A technician is troubleshooting a Windows 7 laptop that takes significantly longer than expected when performing a file search. What is the possible cause?
+The file system is corrupt.
+The disk type is basic.
+The disk type is dynamic.
+The file permissions are not set.
+The index service is not running.
+444.A Windows 8 computer locks up with a stop error during startup and then automatically reboots. The automatic restart setting is making it difficult to see any error messages. What can be done so that the error messages can be viewed?
+Use the System Recovery options to restart the operating system.
+Use the Command Prompt option to research the stop error messages.
+View the error messages and recover the system using the System Image Recovery tool.
+Access the Advanced Startup options menu before the OS loads to disable the auto restart function.
+445.A user reports that a PC is losing files, not opening some files, and is performing slowly. The technician suspects problems with the hard drive. What should be done to protect the data that is on the PC and to determine the source of the problem, without risking total drive failure?
+Run the format command, then replace the hard drive.
+Run chkdsk, then run format.
+Back up all important files, then replace the hard drive.
+Back up all important files, then run chkdsk.
+Run chkdsk, then back up all important files.
+446.A company has recently deployed Active Directory and now a workstation cannot connect to a network resource. A technician takes corrective action by modifying group policy settings. Which command should the technician use to make the workstation synchronize with the new settings?
+runas
+rstrui
+tasklist
+gpresult
+gpupdate
+447.A user is reporting that a file has been shared specifically with another user on the network, but the other user opens the file and is unable to save it once edited. What is the probable cause?
+The user shared the document with Read permissions.
+The user forgot to share the parent folder.
+The file has the Archive attribute enabled.
+The file has been deleted.
+448.A user calls the help desk and reports that the workstation, when powering up, displays error messages about an invalid system disk or invalid boot disk. When a technician comes to the office, the user mentions that the workstation was working well the day before. The technician checks the workstation and makes sure that the cable is firmly connected between the hard drive and the motherboard. What is another likely cause of the problem?
+The MBR/GPT is corrupted.
+The boot service fails to start.
+Some of the operating system files may be corrupted.
+A recently installed device driver is incompatible with the boot.
+449.A technician is attempting to diagnose and rectify a common boot problem on a Windows 10 installation. Which Windows 10 advanced recovery option should the technician use?
+System Restore
+System Image Recovery
+Reset
+Startup Repair
+450.A user of a Windows 10 PC wants to automatically sync the user profile across various Windows 10 devices that the user owns. How can the user accomplish this?
+Have the user sign into all devices with the Microsoft account of the user.
+Ensure that the user is in the proper group so that the group policy will be applied.
+Use gpupdate to propagate the group policy to other devices.
+Make sure that OneDrive file sync is disabled.
+451.A technician is troubleshooting a Windows 10 PC with a frozen Internet Explorer window. Which command can the technician run, as an administrator at a command prompt, to terminate the Internet Explorer process that has hung?
+taskkill /fi iexplorer.exe
+taskkill /pid iexplorer.exe
+taskkill /f /im iexplorer.exe
+taskkill /f /im explorer.exe
+452.A technician wishes to create a dynamic volume on a Windows 10 PC that has two physical hard drives. The technician wants to achieve maximum write performance with data fault tolerance. What type of dynamic volume should be created to achieve this?
+RAID 5 volume
+RAID 1 volume
+RAID 2 volume
+RAID 6 volume
+453.A user wishes to view an ISO disk image file on a Windows 10 Pro PC. How can this be done?
+Convert a Dynamic disk to a Basic disk and open the ISO image.
+Use the built-in Unzip utility to open the ISO file and extract the contents into a directory.
+Use File Explorer to locate the ISO file and mount the file using the Disk Image tools.
+Copy the ISO image to a Dynamic disk and double click it.
+454.Which file sharing mechanism is included with Microsoft Windows 10 to provide simple file sharing via Wi-Fi and Bluetooth?
+AirDrop
+Nearby Sharing
+Homegroup
+NFC
+Workgroup
+455.Which feature is included with both macOS and Apple iOS to establish a Wi-Fi direct connection between devices to simplify file transfer?
+Nearby sharing
+Workgroup
+Homegroup
+AirDrop
+456.A computer technician is attempting to modify settings in the Network Adapter &gt; Properties &gt; Advanced tab &gt; Speed and Duplex. What is a possible effect (or impact) if this option is configured incorrectly?
+The network connection may experience issues.
+The NIC cannot be set to wake up with network activity.
+The NIC cannot be set to shutdown while the computer is idle.
+The NIC loses VLAN support.
+457.A company is implementing a wireless network and using wireless devices as part of the corporate environment. Which two server-based authentication methods should the company consider in the wireless network design? (Choose two.)
+AES
+RADIUS
+TACACS
+TKIP
+WPA2-PSK
+458.A user tries to install an application on a Windows 10 Pro PC but it fails. The user tries to uninstall the application but it fails to uninstall. What option can be used to address this issue without loss of data or applications?
+Use Restore Point.
+Use Advanced Start-up.
+Uninstall and reinstall the device using device manager.
+Restart the Windows Update services.
+459.A technician is troubleshooting a Windows 10 PC that will not do any windows updates automatically or manually. What option can be used to address this issue without loss of data or applications?
+Delete all the files in C:\Windows\SoftwareDistribution folder and restart the PC.
+Perform a repair of Windows using Installation media.
+Uninstall and reinstall the device using device manager.
+Restart the Windows Update services.
+460.A technician is troubleshooting a Windows 10 PC that will not do any windows updates automatically or manually. What option can be used to address this issue without loss of data or applications?
+ Delete all the files in C:\Windows\SoftwareDistribution folder and restart the PC.
+Restore using Sysprep.
+Uninstall and reinstall the device using device manager.
+Restart the Windows Update services.
+461.A Windows 10 computer suddenly started experiencing network connectivity issues after the latest Windows updates completed a week ago. What option can be used to address this issue without loss of data or applications?
+Reset this PC.
+Restore using Sysprep.
+Restart the Windows Update services.
+Uninstall and reinstall the device using device manager.
+462.A client installed a new driver for a device three weeks ago; however, this driver is causing the system to freeze occasionally and the client wishes to revert back to the old driver. What option can be used to address this issue without loss of data or applications?
+Reset this PC.
+Restart the Windows Update services.
+Restore using Sysprep.
+Uninstall and reinstall the device using device manager.
+463.A technician is working on a Windows 10 PC that keeps freezing occasionally after a driver update. System restore has been turned off. What option can be used to address this issue without loss of data or applications?
+Reset this PC.
+Uninstall and reinstall the device using device manager.
+Restore using Sysprep.
+Restart the Windows Update services.
+464.A technician is working on a Windows 10 PC that keeps freezing occasionally after a driver update. System restore has been turned off. What option can be used to address this issue without loss of data or applications?
+Reset this PC.
+Go back to the initial Windows build.
+Restart the Windows Update services.
+Uninstall and reinstall the device using device manager.
+465.A technician is working on a Windows 10 PC that keeps freezing occasionally after a driver update. System restore has been turned off. What option can be used to address this issue without loss of data or applications?
+Reset this PC.
+Go back to the initial Windows build.
+Use Advanced Start-up.
+Perform a repair of Windows using Installation media.
+466.A user tries to install an application on a Windows 10 Pro PC but it fails. The user tries to uninstall the application but it fails to uninstall. What option can be used to address this issue without loss of data or applications?
+ Use Restore Point.
+Go back to the initial Windows build.
+Use Advanced Start-up.
+Perform a repair of Windows using Installation media.
+467.A technician is troubleshooting a Windows 10 PC that will not do any windows updates automatically or manually. What option can be used to address this issue without loss of data or applications?
+Delete all the files in C:\Windows\SoftwareDistribution folder and restart the PC.
+Use Advanced Start-up.
+Go back to the initial Windows build.
+Perform a repair of Windows using Installation media.
+468.A user is trying to create a new Windows directory for storing files related to a new project. What is the best Windows command to select to do the job?
+md
+ping
+tracert
+nslookup
+help
+469.A user has to shutdown several remote computers one at a time. What is the best Windows command to select to do the job?
+shutdown
+nslookup
+ping
+netstat
+recover
+470.A user has an important file that is used in many projects and needs to move that file to a different Windows directory while maintaining it in the current location. What is the best Windows command to select to do the job?
+copy
+bootrec
+ipconfig
+diskpart
+history
+471.A user needs to display a list of current processes running on a local or a remote computer. What is the best Windows command to select to do the job?
+ tasklist
+diskpart
+bootrec
+format
+path
+472.A user has just installed a new hard drive into the PC and needs to prepare it to store Windows files. What is the best Windows command to select to do the job?
+ format
+bootrec
+ipconfig
+diskpart
+net user
+473.A user is experiencing issues with system startup and with failing to open some files. The user wants to determine the source of any hard drive issues. What is the best Windows command to select to do the job?
+chkdsk
+bootrec
+ipconfig
+diskpart
+cls
+474.A user suspects someone has hacked into the PC and wants to verify activity on the PC by displaying all active TCP connections to the PC. What is the best Windows command to select to do the job?
+netstat
+diskpart
+bootrec
+format
+regsrv32
+475.A user is looking for a file but can not find it in the Document folder. The user wants to move to the Download directory to check there. What is the best Windows command to select to do the job?
+cd
+bootrec
+ipconfig
+diskpart
+help
+476.A user is troubleshooting a connectivity issue from the PC to a web server and wants to see a list of the traffic stops between the PC and the web server. What is the best Windows command to select to do the job?
+ tracert
+diskpart
+bootrec
+tasklist
+recover
+477.A user is reorganizing files within different directories to accommodate new projects and needs to relocate a file from one Windows directory to another one. What is the best Windows command to select to do the job?
+ move
+tasklist
+DISM
+sfc
+history
+478.A computer technician is attempting to modify settings in the Network Adapter &gt; Properties &gt; Advanced tab &gt; Speed and Duplex . What is a possible effect (or impact) if this option is configured incorrectly?
+The network connection may experience issues.
+The NIC cannot be set to wake up with network activity.
+The NIC cannot be set to shutdown while the computer is idle.
+The NIC loses VLAN support.
+479.Which two location data sources can locator apps use to determine the position of a mobile device? (Choose two.)
+cellular towers
+WiFi hotspots
+the sandbox
+remote lock
+an app source
+480.What are two ways that iOS differs from Android? (Choose two.)
+iOS uses an All Apps button whereas Android uses a Home button.
+iOS has a physical Home button, but Android uses navigation icons.
+In iOS, the icon for an app represents the app itself. Deleting the icon in iOS deletes the app. In Android, the icon on the Home screen is a shortcut to the app.
+In iOS, apps can only appear on screens, whereas in Android, apps can appear on screens and in folders.
+In iOS, folders are created by dragging one app on top of another app, but in Android folders must be created from the home screen menu.
+481.What are two purposes of the passcode lock feature on mobile devices? (Choose two.)
+to help prevent theft of private information
+to prevent unauthorized use of the device
+to erase all personal data from the device
+to return the device to the default factory state
+to restore and re-synchronize the device
+to remotely lock the device if it is stolen
+482.Refer to the exhibit. What two statements are true about the mobile operating system screen shown? (Choose two.)
+The area enclosed by the red rectangle contains navigation icons.
+The area that is highlighted displays background processes and indicators.
+This is a Windows Phone screen.
+This is an Android screen.
+This is an iOS screen.
+483.Which two methods are commonly used to remove the default restrictions and protections added to mobile operating systems? (Choose two.)
+ rooting
+jailbreaking
+rootkit execution
+device update
+system backup
+484.A Linux administrator wants to backup current files in a data directory and store them in a new directory on another disk. Which two commands would be needed? (Choose two.)
+cd
+cp
+rm
+mv
+mkdir
+485.A file called new_resume has the following file permissions:  rw-r-x&#8211;x  . What two facts can be determined from these permissions? (Choose two.)
+The user has full access to the file.
+Members of the group have read and execute access to the file.
+Other people have read and execute access to the file.
+Group members are able to modify the file.
+The user is able to read and modify the file.
+Other people have no access to the file.
+486.What is a good source for safely downloading Android apps?
+iTunes
+Google Play
+freeware sites
+the Apple App Store
+487.What represents apps in the Windows Phone interface?
+buttons
+icons
+tiles
+widgets
+488.What is the result of doing a factory reset on a mobile device?
+The operating system will be updated with the most recent updates and patches.
+All user data and settings will be deleted.
+The operating system will be deleted and all user data is transferred to the Cloud.
+A complete backup of the device is done and all viruses and malware are removed.
+489.What is the name of the Windows Phone 8.1 digital, or virtual, assistant?
+Bing
+Cortana
+Nova Launcher
+Spotlight
+490.What is Wi-Fi calling?
+a method used to push apps to smartphones
+a convenient way to securely and digitally make payments with mobile devices
+a government emergency alert service for smartphones
+a way to make mobile phone calls over a wireless data network
+a method for sharing data between two mobile devices
+491.What is the purpose of signature files used to secure mobile devices and operating systems?
+They contain a record of historical and pending firmware and software updates.
+They contain a list of all user passwords.
+They contain a log of digital certificates and encryption keys associated with the user.
+They contain sample code from known viruses and malware that is used by security software to identify malicious software.
+492.What is a purpose of the boot manager program?
+It manages antivirus signature files, encryption keys, and certificates when a device boots.
+It automates the POST and checks the disk for bad sectors during a boot.
+It checks the validity of hardware and software on the device after a factory reset.
+It allows the user to select the OS to use to boot the device.
+It allows the user to determine which apps are automatically opened during the boot process.
+493.An administrator is re-imaging a large number of Mac OS X machines. What built-in tool or command can be used to remotely boot the computers?
+mstsc
+Netboot
+Time Machine
+Finder
+494.What tool or command is used in the Mac OS X to navigate the file system?
+File Explorer
+Task Manager
+Finder
+mstsc
+495.Which model does Apple use to provide iOS apps to customers?
+iCloud
+Xcode
+sandbox
+walled garden
+496.Android apps run primarily based on privileges enabled by the user. Sometimes an Android app requires extra privileges to access system components. How do Android apps run to accomplish both situations?
+Android apps run in a sandbox.
+Android apps run in a guest mode.
+Android apps run in a walled garden.
+Android apps run through a proxy service.
+497.Which navigation icon on the system bar of an Android device is used to return to the previous screen?
+Back
+Home
+Menu
+Recent Apps
+498.Which statement describes the iOS app icons on a mobile device screen?
+Each icon is a shortcut of the app.
+Each icon represents the actual app.
+Each icon represents an instance of the actual app.
+Each icon links to multiple instances of the actual app.
+499.What is the purpose of using the auto-brightness feature on a mobile device with an LCD screen?
+to conserve battery power
+to reduce the interference from sunlight
+to prevent the burn-in effect on the screen
+to display text messages with better contrast
+500.Which statement describes the Touch ID in iOS devices?
+It is used as the passcode.
+It is the encryption key set by the user.
+It is the hash value of the user fingerprint.
+It is used to set the touch screen sensitivity.
+501.Which cloud-based storage service does Microsoft provide for backups?
+iCloud
+Dropbox
+OneDrive
+Google Sync
+502.A mobile device user notices that the system update includes an update of the Primary Rate ISDN (PRI). What is the function of the PRI?
+It is the configuration of radio frequencies used on the device.
+It is the data rate setting of the user account with the carrier service.
+It is the configuration of the data rates between the device and the cell tower.
+It is the configuration information that the device needs to communicate on networks other than the carrier network.
+503.A Linux PC user notices that the PC freezes on startup and exhibits kernel panic where there is a stop screen. What is a possible cause for the issue?
+LILO has been deleted.
+GRUB has been corrupted.
+A driver has become corrupted.
+Deja Dup has been turned off in the system.
+504.What command is used to open a text editor in a Linux system?
+grep
+ifconfig
+ls
+vim
+505.Which Linux file system introduced the journaled file system, which can be used to minimize the risk of file system corruption in the event of a sudden power loss?
+ext2
+ext3
+CDFS
+NFS
+506.What is the most commonly used method to close an application that appears to be frozen on an OS X-based computer?
+Use Force Quit.
+Use Task Manager.
+Access the Status menu.
+Access the Notification Center.
+507.Which file system is the primary file system used by Apple in current Macintosh computers?
+ext2
+ext3
+CDFS
+HFS+
+APFS
+508.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;The mobile devices have a feature called Spotlight that is a search tool that provides information from many sources.&#8221; To which OS does this relate: iOS, Android, or both?
+ iOS
+Android
+both
+509.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;This OS uses the system bar, displayed at the bottom of every screen, to navigate apps and screens.&#8221; To which OS does this relate: iOS, Android, or both?
+Android
+iOS
+both
+510.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;This OS can be used by programmers to operate devices like laptops, smart TVs, and e-book readers.&#8221; To which OS does this relate: iOS, Android, or both?
+Android
+iOS
+both
+511.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;The icon on the Home screen is a shortcut to the app.&#8221; To which OS does this relate: iOS, Android, or both?
+ Android
+iOS
+both
+512.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;WIFI hotspots are a location data source that can be used by locator apps to determine the position of a mobile device.&#8221; To which OS does this relate: iOS, Android, or both?
+both
+iOS
+Android
+513.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;Remote backups are a cloud-enabled service for mobile devices.&#8221; To which OS does this relate: iOS, Android, or both?
+both
+iOS
+Android
+514.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;GPS signals are used to enable geocaching, geotagging and device tracking on these mobile devices.&#8221; To which OS does this relate: iOS, Android, or both?
+ both
+iOS
+Android
+515.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;The start voice control function can be performed with the home button.&#8221; To which OS does this relate: iOS, Android, or both?
+iOS
+Android
+both
+516.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;To synchronize a mobile device to a PC, iTunes must be installed on the PC.&#8221; To which OS does this relate: iOS, Android, or both?
+ iOS
+Android
+both
+517.An instructor is discussing facts about different mobile device operating software. The instructor states: &#8220;When the device roams out of the range of any Wi-Fi networks, it can connect to the cellular data network if this feature is enabled.&#8221; To which OS does this relate: iOS, Android, or both?
+both
+iOS
+Android
+518.A file called new_resume has the following file permissions: rw-r-x&#8211;x . What two facts can be determined from these permissions? (Choose two.)
+The user has full access to the file.
+Members of the group have read and execute access to the file.
+Other people have read and execute access to the file.
+Group members are able to modify the file.
+The user is able to read and modify the file.
+Other people have no access to the file.
+519.Which two items are used in asymmetric encryption? (Choose two.)
+a token
+a DES key
+a private key
+a public key
+a TPM
+520.Which two algorithms are used for hash encoding to guarantee the integrity of data? (Choose two.)
+ MD5
+chap checksum
+SHA
+VPN
+SSL
+521.A high technology company has an issue with unauthorized people gaining access into the company by following an authorized employee through the secure entrance. Which two measures could help with this security breach? (Choose two.)
+biometrics
+employee smart ID
+mantrap
+multifactor authentication
+security guard that checks IDs
+522.A user receives a phone call from a person who claims to represent IT services and then asks that user for confirmation of username and password for auditing purposes. Which security threat does this phone call represent?
+DDoS
+spam
+social engineering
+anonymous keylogging
+523.The IT department is reporting that a company web server is receiving an abnormally high number of web page requests from different locations simultaneously. Which type of security attack is occurring?
+adware
+DDoS
+phishing
+social engineering
+spyware
+524.After confirming the removal of a virus from a computer, how should the technician ensure and verify the full functionality of the system?
+Check for the latest OS patches and updates.
+Document the problem and the procedures performed to solve it.
+Talk with the user to determine the cause of the problem.
+Gather information from a number of sources to clearly identify the problem.
+525.A system administrator has been asked to protect the sensitive data on the Windows 7 computers of all management employees. Which Windows feature can be used to selectively encrypt individual files within the user accounts of each manager?​
+BitLocker
+EFS
+TPM
+Windows Update
+526.When would a PC repair person want to deploy the idle timeout feature?
+when users are inserting media and running applications not sanctioned by the company
+when users are leaving their desk but remaining logged on
+when users are playing music CDs and leaving them playing even after the users have left for the day
+when users are surfing the Internet and not doing their job
+527.Which type of firewall serves as a relay between users and servers on the Internet, inspects all traffic, and allows or denies traffic based on a set of rules?
+packet filtering firewall
+stateful packet firewall
+proxy firewall
+operating system firewall
+528.What would cause a Microsoft Windows update to fail?
+The wired or wireless NIC was disabled.
+The computer has a virus.
+The computer has had its security breached.
+A required prior update was not installed.
+529.A user calls the help desk reporting that a laptop is not performing as expected. Upon checking the laptop, a technician notices that some system files have been renamed and file permissions have changed. What could cause these problems?
+The file system is corrupted.
+The laptop is infected by a virus.
+The display driver is corrupted.
+The file system has been encrypted.
+530.How can users working on a shared computer keep their personal browsing history hidden from other workers that may use this computer?
+Reboot the computer after closing the web browser.
+Operate the web browser in private browser mode.
+Use only an encrypted connection to access websites.
+Move any downloaded files to the recycle bin.
+531.A retail store wants to secure laptops that are on display. The store manager also wants a record of which employees enter the backroom where inventory is kept. Which security option would work best for this situation?
+guards and log sheets
+security cameras and only the manager having access to the backroom
+cable locks and a token-based lock on the backroom
+a condition that laptops are viewed one at a time and only the owner has a key to the backroom
+532.Refer to the exhibit. The security policy of an organization allows employees to connect to the office intranet from their homes. Which type of security policy is this?
+acceptable use
+incident handling
+network maintenance
+remote access
+533.A user notices that files created and saved locally last week are missing and asks the technician to investigate. The technician suspects there has been a security breach. Which type of malware could be responsible?
+adware
+phishing
+spyware
+Trojan
+534.A group of users on the same network are all complaining about their computers running slowly. After investigating, the technician determines that these computers are part of a zombie network. Which type of malware is used to control these computers?
+ botnet
+rootkit
+spyware
+virus
+535.What are signatures as they relate to security threats?
+a unique encryption code used by a known attacker
+one or more code patterns within a specific type of malware
+the beginning or end of a malware segment that has a specific cyclic redundancy check number
+the checksum associated with each specific type of malware that is stored in a virus table
+536.A college student logs onto a college computer for the first time. Which security policy category should be presented to the student?
+acceptable use policies
+identification and authentication policies
+incident handling policies
+network maintenance policies
+537.A technician is preparing to encrypt a corporate drive by using Microsoft BitLocker. Which BIOS option will the technician need to enable?
+NTFS
+SSL
+TPM
+EFS
+538.Which security technique or device wipes the data from a hard drive by being placed near the drive platter for at least 2 minutes?
+degaussing wand
+EFS
+low-level format
+biometric scanner
+erase scope
+539.Refer to the exhibit. Which type of workstation password is being used?
+BIOS
+login
+multifactor
+network
+synchronous
+540.A customer uses Internet Explorer and Microsoft Edge as browsers on the computer. The customer asks the technician how to configure the computer to detect and filter phishing websites, to analyze websites for suspicious items, and to check downloads against a list of known malicious files and sites. Which web security feature should the technician demonstrate?
+ActiveX Filter
+AutoPlay
+Firewall
+SmartScreen Filter
+541.A SOHO company has hired a technician to come in and configure and secure the computers. The technician has decided to configure a local security policy for the machines. Which setting would the technician use to ensure that the user did not make their password the same as their own user account name?
+enforce password history
+maximum password age
+minimum password length
+meet complexity requirements
+542.A technician is configuring rights and permissions in Windows 7. Which tool will the technician use?
+Device Manager
+Local Security Policy
+Local Users and Groups
+Resource Monitor
+543.An IT technician wants to create a rule on two Windows 10 computers to prevent an installed application from accessing the public Internet. Which tool would the technician use to accomplish this task?
+Computer Management
+DMZ
+Local Security Policy
+Windows Defender Firewall with Advanced Security
+544.A newly created company has fifteen Windows 10 computers that need to be installed before the company can open for business. What is a best practice that the technician should implement when configuring the Windows Firewall?
+The technician should remove all default firewall rules and selectively deny traffic from reaching the company network.
+The technician should enable the Windows Firewall for inbound traffic and install other firewall software for outbound traffic control.
+After implementing third party security software for the company, the technician should verify that the Windows Firewall is disabled.
+The technician should create instructions for corporate users on how to allow an app through the WIndows Firewall using the Administrator account.
+545.Which two statements characterize wireless network security? (Choose two.)
+Wireless networks offer the same security features as wired networks offer.
+Wireless guest mode provides open access to a protected LAN.
+With SSID broadcast disabled, an attacker must know the SSID to connect.
+Using the default IP address on an access point makes hacking easier.
+An attacker needs physical access to at least one network device to launch an attack.
+546.A manager approaches a PC repair person with the issue that users are coming in to the company in the middle of the night to play games on their computers. What might the PC repair person do to help in this situation?
+Limit the login times.
+Use Event View to document the times logged in and out of the computer.
+Use Device Manager to limit access to the computer.
+Enable power on passwords in the BIOS.
+547.A technician has been asked by a manager to recommend a security solution for protecting a computer against worms. Which security technique should the technician recommend?
+antimalware
+SSL
+ping sweep
+IPS
+548.A technician has been asked by a manager to recommend a security solution for protecting a computer against ransomware. Which security technique should the technician recommend?
+ antimalware
+encryption
+ping sweep
+IPS
+549.A technician has been asked by a manager to recommend a security solution for protecting a computer against spyware. Which security technique should the technician recommend?
+antimalware
+dual authentication
+ping sweep
+IPS
+550.A technician has been asked by a manager to recommend a security solution for protecting a computer against spyware. Which security technique should the technician recommend?
+ antimalware
+ASA
+ping sweep
+IPS
+551.A technician has been asked by a manager to recommend a security solution for protecting a computer against keyloggers. Which security technique should the technician recommend?
+ antimalware
+ASA
+ping sweep
+IPS
+552.A technician has been asked by a manager to recommend a security solution for protecting a computer against adware programs. Which security technique should the technician recommend?
+antimalware
+IPS
+ping sweep
+ASA
+553.A technician has been asked by a manager to recommend a security solution for protecting a computer against adware programs. Which security technique should the technician recommend?
+antimalware
+ping sweep
+dual authentication
+ASA
+554.A technician has been asked by a manager to recommend a security solution for protecting a computer against rootkits. Which security technique should the technician recommend?
+antimalware
+ping sweep
+dual authentication
+ASA
+555.A technician has been asked by a manager to recommend a security solution for protecting a computer against rootkits. Which security technique should the technician recommend?
+antimalware
+port scan
+dual authentication
+ASA
+556.A technician has been asked by a manager to recommend a security solution for protecting a computer against Trojans. Which security technique should the technician recommend?
+ antimalware
+port scan
+dual authentication
+ASA
+557.What is a common responsibility of a level one call center technician?
+entering a concise description of a customer problem into a ticketing system
+remotely connecting to customer devices and implementing driver and software updates
+calling back customers and asking additional questions to solve the problem
+receiving escalated work orders from a lower level technician
+558.Which two programming languages require the program to be converted into executable code using a compiler? (Choose two.)
+PowerShell
+VBScript
+C#
+Java
+Python
+559.A programmer used an operator to compare values within a program and the resulting logical data type was &#8220;false&#8221;. Which test condition would have provided the result of &#8220;false&#8221;?
+8 != 8
+4 &gt;= 1
+6 &lt;= 6
+3 == 3
+560.What is the definition of a script file?
+A simple file with a single statement that loops repeatedly.
+A file that is compiled and translated into machine language before executing.
+A simple text file used to automate processes and tasks.
+A file that is the output of a conditional statement.
+561.A system administrator needs to perform manual updates on a remote Linux workstation using a Windows 10 PC. Which remote access tool should the administrator use to securely access and configure the Linux device across the network?
+Telnet client
+Windows Remote Desktop client
+Windows Remote Assistance client
+SSH client
+562.A technician is attempting to securely configure a Linux web server on the public-facing side of the firewall. What port type and number are most likely required to be open on the firewall to allow this traffic through?
+UDP port 23
+TCP port 23
+TCP port 22
+UDP port 22
+TCP port 3389
+UDP port 3389
+563.A worker in the records department of a hospital in the United States accidentally sends a patient&#8217;s medical record to a printer in another department. When the worker arrives at the printer, the patient record printout is missing. Which two types of compliance standards best match the breach of confidentiality? (Choose two.)
+PII
+PHI
+PCI
+ePHI
+DRM
+GDPR
+564.What are two examples of personally identifiable information (PII)? (Choose two.)
+credit card number
+first name
+street address
+language preference
+IP address
+565.What is the definition of cyber law?
+a single law defining criminal acts that are committed online
+the collection of international, country, and local laws that affect computer security professionals
+a contract that defines expectations between an organization and IT service vendors for an agreed upon level of support
+the process of collecting and analyzing data from computer systems, networks, wireless communications, and storage devices
+566.What is a characteristic of the open source license of an application software?
+It requires registration instead of purchasing.
+It cannot be used for campus-wide deployment.
+It allows users to modify and share the source code.
+It does not require purchase in order to use the software.
+It requires acknowledged completion of a professional training course prior to use.
+567.Which statement is characteristic of most personal software licenses?
+Developers are allowed to modify and share the source code that runs the software.
+A company is allowed to use the software campus wide.
+A user is allowed to share the software with friends.
+A user is allowed to install the software on only one computer.
+568.What two actions should a call center technician avoid when dealing with an angry customer? (Choose two.)
+spending time explaining what caused the problem
+putting the customer on hold or transferring the call
+apologizing for any inconvenience caused to the customer
+sympathizing with the customer
+letting the customer explain the problem without interruption
+The technician should avoid further angering the customer by:Putting the customer on hold
+Explaining what caused the problem
+569.A technician is troubleshooting a PC in a workplace environment and finds many pirated movies on the hard drive. What should the technician do?
+Make a copy of all the pirated content and send it to the law enforcement authorities.
+Advise the user that downloading pirated content is illegal and that the user should refrain from doing so.
+Remove the pirated content and document all work done.
+Report the findings through the proper channels.
+570.A support desk trainer is teaching a new support desk technician some basic rules about starting a conversation with a customer. Which statement describes the rules the trainer should be teaching?
+Ask the customer what the problem is and then introduce yourself.
+Learn the name of the customer and create a connection with the customer. Next ask questions that assess the knowledge level of the customer.
+Start by asking close-ended questions about what the customer understands of the problem and then direct the customer through the correction process.
+Assess what the customer knows of the support desk process and then use close-ended questions to guide the customer through the correction process.
+571.A customer is angry and calls to complain that the service scheduled on the computer took longer than expected. The technician reviews the work order and notices that the service was performed by a new employee. How should the technician respond?
+Verify that the computer is working properly now.
+Listen to the complaint and then apologize for any inconvenience caused by the lengthy service on the computer.
+Explain that the repair technician sent to perform the service is inexperienced.
+Put the customer on hold until a supervisor is available.
+572.Which task would require that a problem be escalated to a level two technician?
+changing CMOS settings
+cleaning a mouse
+changing toner cartridges
+checking loose external cables
+573.A technician receives a call from a customer who is too talkative. How should the technician handle the call?
+Talk over the customer and quickly gather the necessary information to be of help.
+Allow the customer to speak without interruption and then try to use closed-ended questions to gather data.
+Use open-ended questions and repeat all the information back to the customer to politely show that unnecessary information is being given.
+Politely step in and gain control of the call by asking the customer social questions.
+574.What should a level two technician do immediately after receiving an escalated work order from a level one technician?
+Call the level one technician and ask questions about the problem.
+Call the customer back to ask any additional questions and resolve the problem.
+Document suggestions to solve the problem in the work order and return it to the level one technician.
+Send the work order to a level three technician and ask for support.
+575.Which two rules pertain to the general daily activities of employees in a call center environment? (Choose two.)
+If a technician takes a call from a customer the technician does not like, the technician should pass the call to another technician.
+The technician should be sure to treat all customers equally.
+If a customer complains about another technician, the technician who is taking the call should agree with opinion of the customer.
+The technician should adjust the work chair to a height that is high enough so that wrists angle downwards toward the keyboard.
+The technician should contact the customer if the technician is going to be late for a follow-up appointment.
+576.What does a technician need in order to make changes to software installed on the computer of a customer?
+the authorization of a more senior technician
+customer authorization
+verification that the software is legal
+two witnesses
+577.Which is true regarding the treatment of customer property?
+A technician does not have to care about copies of customer files because it is not the original.
+A customer&#8217;s phone list is customer property and must be kept private.
+Customer property is limited to hardware.
+Data left on a customer&#8217;s PC is not property because it is visible to others.
+578.During computer forensics investigations, which type of data is lost when power is removed from the computer?
+data that is stored on solid state drives
+data that is stored in RAM
+data that is stored on magnetic disk
+data that is stored to an external drive
+579.Why is a chain of custody important in a cyber crime case?
+It authenticates evidence.
+It ensures conviction
+It proves guilt.
+It protects copyrighted materials.
+580.When performing computer forensics, what can be prevented with a properly and carefully documented chain of custody?
+evidence tampering
+copying of copyrighted materials
+cyber crime
+identity theft
+581.Which statement best describes a call center?
+It is a busy, fast-paced work environment where agents contact customers to arrange preventive maintenance appointments.
+It is a help desk used by customers to make an appointment to report their computer problems.
+It is a place that exists within a company and provides computer support to both employees and customers of the company.
+It is a store-front environment where the customers go with their computers to have them fixed.
+582.What is a typical task performed by a level one technician in a call center?
+gathering information when a customer calls for help
+solving the problem that might require opening up the computer case
+using remote access software to troubleshoot the customer computer
+picking up an escalated work order and calling the customer for further information
+583.What is a reason to escalate a problem from a level one technician to a level two technician?
+when the equipment needs to be rebooted
+when drivers, applications, or operating systems need to be installed
+when the screen resolution of a customer PC needs to be adjusted
+when a peripheral device needs to be replaced
+584.Which change management process component is concerned with the cost and resources necessary for implementation?
+assessment
+approval
+implementation
+identification
+585.Which type of documentation is concerned with specifying what data must be collected and how long it must be retained in regards to an organization?
+ policies
+operations
+projects
+user documentation
+586.Which are two examples of good customer service? (Choose two.)
+A technician follows up with a customer after services are completed.
+A technician notifies a customer as soon as possible that there may be a delay.
+A technician repeatedly encourages a customer to agree to a product warranty.
+A technician continually reminds the customer that an issue was due to customer neglect.
+A technician speaks slowly and uses common industry jargon and terms with the customer.
