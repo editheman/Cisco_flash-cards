@@ -16,7 +16,7 @@ int menu(int &c)
 
 bool ok;
 char enunt[100001],raspuns[10][100001];
-int nrcorecte,corecte[7],nrraspunsuri,raspunsuri[4],x,choice,c,nr;
+int nrcorecte,corecte[7],nrraspunsuri,raspunsuri[4],x,c,nr,numaratoare;
 
 int main()
 {
@@ -35,7 +35,19 @@ int main()
     {
         ok=true;
         nr++;
-        cout<<"\033[0;30;45m"<<enunt<<"\033[0m"<<endl<<endl;
+        //cout<<"\033[0;30;45m"<<enunt<<"\033[0m"<<endl<<endl;
+        for(int i=0;i<strlen(enunt);i++)
+        {
+            cout<<"\033[0;30;45m"<<enunt[i]<<"\033[0m";
+            numaratoare++;
+            if(numaratoare>145 && strchr(" ",enunt[i])!=NULL)
+            {
+                cout << endl;
+                numaratoare = 0;
+            }
+
+        }
+        cout<<endl;
         g>>nrcorecte>>nrraspunsuri;
 
         for(int i=1;i<=nrraspunsuri;i++)
@@ -51,7 +63,7 @@ int main()
         }
         for(int i=1;i<=nrcorecte;i++)
         {
-            cout<<"\033[0;30;47m"<<"Raspunsul dumneavoastra este: "<<"\033[0m";
+            cout<<"\033[0;30;47m"<<"Raspunsul dumneavoastra este:"<<"\033[0m"<<" ";
             cin>>raspunsuri[i];
         }
 
