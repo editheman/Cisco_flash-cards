@@ -5,7 +5,7 @@ using namespace std;
 
 int menu(int &c)
 {
-    cout<<"Choose an option: (1- continue, 0- end)";
+    cout<<"\033[1;30;43m"<<"Choose an option: (1- continue, 0- end)"<<"\033[0m";
     cin>>c;
     if(c!=1)
         return 0;
@@ -69,7 +69,7 @@ int main()
         }
         if(ok==true)
         {
-            cout<<"Corect!"<<endl;
+            cout<<endl<<"\033[1;30;42m"<<"Corect!"<<"\033[0m"<<endl;
             corecteen<<enunt<<endl;
             for(int i=1;i<=nrraspunsuri;i++)
                 corecteen<<raspuns[i]<<endl;
