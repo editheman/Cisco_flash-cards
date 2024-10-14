@@ -1,0 +1,6 @@
+# ninja log v5
+351	389	1706796831399090566	ceva_de_test	13ed49def36ef6b5
+1	57	1728912559836887323	build.ninja	cebbaacf23b03357
+0	349	1706796831357892620	CMakeFiles/ceva_de_test.dir/main.cpp.o	eccc851191734a8e
+0	373	1728912570189126695	CMakeFiles/ceva_de_test.dir/main.cpp.o	10ce6b339c7466e6
+374	411	1728912570229568205	ceva_de_test	f3bf75cb315de5d8

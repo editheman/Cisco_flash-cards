@@ -1,0 +1,134 @@
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main()
+{
+    ifstream f("bac.txt");
+    char s[10001];
+    int j,nrintrebare=0,nrraspuns=0;
+    bool ok=false;
+
+    while(f.getline(s,10001))
+    {
+        ok=false;
+        for (int i = 0; i < strlen(s); i++)
+        {
+            if (s[i] == '<') {
+                j = i + 1;
+                while (s[j] != '>')
+                {
+                    if(s[j]=='h' && s[j+1]=='3')
+                    {
+                        ok=true;
+                        nrintrebare++;
+                    }
+                    j++;
+                }
+                strcpy(s + i, s + j + 1);
+                i--;
+
+            }
+
+        }
+        if(ok==true)
+            nrintrebare--;
+        if(ok==true)
+        {
+            cout<<endl;
+            cout << nrintrebare << ".";
+        }
+        if(strlen(s)>1)
+            cout<<s<<endl;
+        //cin.get();
+    }
+
+
+    return 0;
+
+}
+
+
+
+
+altul
+
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main()
+{
+    ifstream f("bac.txt");
+    ofstream in("intrebare.txt");
+    ofstream r("raspuns.txt");
+    ofstream c("corect.txt");
+    char s[10001];
+    int j,nrintrebare=0,nrraspuns=0;
+    bool ok,ok2,exp;
+
+    while(f.getline(s,10001))
+    {
+        ok=false;
+        ok2=false;
+        exp=false;
+        for (int i = 0; i < strlen(s); i++)
+        {
+            if (s[i] == '<') {
+                if(strstr(s,"span style=")!=NULL)
+                    ok2=true;
+                j = i + 1;
+                while (s[j] != '>')
+                {
+                    if(s[j]=='h' && s[j+1]=='3')
+                    {
+                        ok=true;
+                        nrintrebare++;
+                    }
+                    j++;
+                }
+                strcpy(s + i, s + j + 1);
+                if(strstr(s,"Explanation")!=NULL)
+                    exp=true;
+                i--;
+
+
+            }
+
+        }
+        if(ok==true && exp==false)
+        {
+            nrintrebare--;nrraspuns=0;
+            in <<char(34)<<"Q"<<nrintrebare << ".";
+            r<<endl<<"],"<<endl<<"[";
+        }
+        else
+        {
+            if(strlen(s)>1 && exp==false)
+                nrraspuns++;
+        }
+        if(ok2==true && exp==false)
+            c<<nrraspuns<<","<<endl;
+
+        if(strlen(s)>1 && exp==false)
+        {
+            if (ok == true)
+                in << s <<char(34)<<","<< endl;
+            else
+            {
+                if(nrraspuns==1)
+                    r<<char(34)<<s<<char(34);
+                else
+                    r<<","<<endl<<char(34)<<s<<char(34);
+
+            }
+
+        }
+    }
+
+    r<<endl<<"]";
+    return 0;
+
+}

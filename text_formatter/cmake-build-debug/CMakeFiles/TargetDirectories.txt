@@ -1,0 +1,3 @@
+/Users/edi/CLionProjects/ceva de test/cmake-build-debug/CMakeFiles/ceva_de_test.dir
+/Users/edi/CLionProjects/ceva de test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edi/CLionProjects/ceva de test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
