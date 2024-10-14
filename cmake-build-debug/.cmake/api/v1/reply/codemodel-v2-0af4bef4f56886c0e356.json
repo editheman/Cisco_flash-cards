@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ciscointrebari::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ciscointrebari-Debug-1b5dfa31eb5bc3e33cb4.json",
+					"jsonFile" : "target-ciscointrebari-Debug-91451793fac8c91a4ea4.json",
 					"name" : "ciscointrebari",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 6
 	}
 }

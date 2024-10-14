@@ -122,7 +122,6 @@ int main()
                     gresitenr<<x<<endl;
 
                 ///rescriere fisier initial
-                ///nu mi se rescriu raspunsurile
                 ofstream fout("intrebare.txt");
                 ofstream goutt("raspuns2..txt");
 

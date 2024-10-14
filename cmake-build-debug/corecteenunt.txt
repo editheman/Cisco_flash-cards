@@ -1,0 +1,266 @@
+1.A customer comes into a computer parts and service store. The customer is looking for a device to help a person with accessibility issues input instructions into a laptop by using a pen. What device should the store owner recommend to accomplish the required task?
+stylus
+biometric scanner
+keyboard
+NFC device
+2.A customer comes into a computer parts and service store. The customer is looking for a device to provide secure access to the central server room using a retinal scan. What device should the store owner recommend to accomplish the required task?
+biometric scanner
+keyboard
+NFC device
+flatbed scanner
+3.A customer comes into a computer parts and service store. The customer is looking for a device to help when repairing an airplane and that will allow the customer to see and interact with the repair manual at the same time. What device should the store owner recommend to accomplish the required task?
+AR headset
+biometric scanner
+keyboard
+NFC device
+4.A customer comes into a computer parts and service store. The customer is looking for a device to manually input text for a new networking textbook that the customer is writing. What device should the store owner recommend to accomplish the required task?
+keyboard
+biometric scanner
+NFC device
+flatbed scanner
+5.A customer comes into a computer parts and service store. The customer is looking for a device to allow secure access to the main doors of the company by swiping an ID card. What device should the store owner recommend to accomplish the required task?
+magstripe reader
+biometric scanner
+keyboard
+NFC device
+6.A customer comes into a computer parts and service store. The customer is looking for a device to allow users to tap and pay for their purchases. What device should the store owner recommend to accomplish the required task?
+ NFC device
+joystick or gamepad
+projector
+magstripe reader
+7.A customer comes into a computer parts and service store. The customer is looking for a device to allow secure access to the main doors of the company by swiping an ID card. What device should the store owner recommend to accomplish the required task?
+magstripe reader
+joystick or gamepad
+projector
+AR headset
+8.A customer comes into a computer parts and service store. The customer is looking for a device to display a promotional presentation to a large audience at a conference. What device should the store owner recommend to accomplish the required task?
+projector
+joystick or gamepad
+magstripe reader
+AR headset
+9.A customer comes into a computer parts and service store. The customer is looking for a device to scan some old family photos into a laptop. What device should the store owner recommend to accomplish the required task?
+flatbed scanner
+joystick or gamepad
+projector
+magstripe reader
+10.A customer comes into a computer parts and service store. The customer is looking for a device to train pilots how to land and take off in a computer simulation environment. What device should the store owner recommend to accomplish the required task?
+joystick or gamepad
+projector
+magstripe reader
+AR headset
+11.Which characteristic describes DDR3 SDRAM?
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+an individual memory chip that has dual rows of pins used to attach it to the motherboard
+a small circuit board that holds several memory chips and has a 30- or 72-pin configuration
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+12.Which characteristic describes ECC memory?
+chips that can detect multiple bit errors and correct single bit errors in memory
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+an individual memory chip that has dual rows of pins used to attach it to the motherboard
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+13.Which characteristic describes GDDR SDRAM?
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+chips that require constant power to function and are often used for cache memory
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips whose contents can be “flashed” for deletion and are often used to store BIOS
+14.Which characteristic describes ROM?
+a chip that cannot be erased or rewritten and is now obsolete
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+chips that require constant power to function and are often used for cache memory
+15.Which characteristic describes a DIP?
+an individual memory chip that has dual rows of pins used to attach it to the motherboard
+chips that require constant power to function and are often used for cache memory
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips whose contents can be “flashed” for deletion and are often used to store BIOS
+16.Which characteristic describes PROM?
+ chips that are manufactured blank and then can be programmed once by a PROM programmer
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+chips that require constant power to function and are often used for cache memory
+21.A technician looks at a motherboard and sees a 24-pin connector. What component would connect to the motherboard through the use of this 24-pin connector?
+power supply
+video card
+PATA optical drive
+SATA drive
+floppy drive
+17.Which characteristic describes a SIMM?
+a small circuit board that holds several memory chips and has a 30- or 72-pin configuration
+chips that require constant power to function and are often used for cache memory
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips whose contents can be “flashed” for deletion and are often used to store BIOS
+19.Which characteristic describes a SIMM?
+a small circuit board that holds several memory chips and has a 30- or 72-pin configuration
+SRAM that is internal and integrated into the CPU
+a smaller, more condensed memory module that provides random access data storage, ideal for use in laptops, printers, and other
+devices where conserving space is desirable
+an individual memory chip that has dual rows of pins used to attach it to the motherboard
+20.Which characteristic describes EPROM?
+a chip that is nonvolatile and can be erased by exposing it to strong ultraviolet light
+SRAM that is internal and integrated into the CPU
+a smaller, more condensed memory module that provides random access data storage, ideal for use in laptops, printers, and other devices where conserving space is desirable
+a small circuit board that holds several memory chips and has a 30- or 72-pin configuration
+18.Which characteristic describes EPROM?
+a chip that is nonvolatile and can be erased by exposing it to strong ultraviolet light
+chips that run at clock speeds of 800 MHz and have a connector with 240 pins
+chips specifically designed for video graphics that are used in conjunction with a dedicated GPU
+chips that require constant power to function and are often used for cache memory
+25.A technician is building a thick client workstation that would be used to run a database and wants to ensure the best protection against errors. What type of memory would be best suited for this?
+ECC
+RDRAM
+DDR3
+DDR2
+22.Which two activities are normally controlled by the Northbridge part of the chipset? (Choose two.)
+communication between the CPU and the I/O ports
+access to the RAM
+communication between the CPU and the hard drive
+access to the video card
+communication between the CPU and the sound card
+23.Which two components usually interface directly with the Southbridge chipset on the motherboard? (Choose two.)
+video card
+USB ports
+RAM
+hard drive
+PCIe slots
+24.Which statement describes the proper use of an anti-static wrist strap?
+An anti-static wrist strap should not be used in conjunction with an antistatic mat.
+For optimum grounding, the clip should be attached to a painted section of the computer case.
+An anti-static wrist strap should make contact with the skin.
+The anti-static wrist strip should not be attached to any grounded object.
+27.Which adapter would a technician install in a desktop computer to enable a video signal to be recorded from a video recorder to the computer hard drive?
+video adapter
+TV tuner card
+video capture card
+network interface card
+29.Which unit of measurement is used to indicate the hard drive speed?
+revolutions per minute
+gigabytes
+pages per minute
+clusters per minute
+30.What three voltages are commonly provided by the power supply to the various components inside the computer? (Choose three.)
+3.3 volts
+5 volts
+9 volts
+12 volts
+24 volts
+48 volts
+31.A customer needs additional storage space on an older computer. What will the technician look at in the computer to determine if an additional hard drive can be added?
+adequate RAM
+an open PCI/PCIe expansion slot
+an available PATA/SATA connection
+BIOS version
+the heat that is generated and air flow requirements
+26.Which type of memory is primarily used as cache memory?
+DRAM
+RAM
+ROM
+SRAM
+32.Which component controls the communications and interactions between the CPU and other components on the motherboard?
+RAM
+BIOS
+CMOS
+chipset
+34.Hard drives in a grocery warehouse keep failing because of vibrations in the warehouse environment. What would be a possible solution for this high failure rate?
+ Install an SSD drive in each computer.
+Install a more powerful power supply in each computer.
+Install an antistatic mat under each computer.
+Install each computer in a specialized high airflow case.
+28.Which two storage devices use a magnetic medium for storing data? (Choose two.)
+ tape drive
+solid state drive
+hard disk drive
+blue-ray disk drive
+compact disk drive
+33.Which statement describes a characteristic of GDDR Synchronous Dynamic RAM?
+It is used in conjunction with a dedicated GPU.
+It processes massive amounts of data at the fastest speeds.
+It is used for main memory.
+It has a low power consumption and is used for cache memory.
+36.From which type of data storage does the CPU load information for processing during normal operation?
+SSD
+RAM
+ROM
+hard drive
+38.Which type of device would be used on a laptop to verify the identity of a user?
+a MIDI device
+a biometric identification device
+a touch screen
+a digitizer
+40.What is an active cooling solution for a PC?
+Reduce the speed of the CPU.
+Add a heatsink to the CPU.
+Add an additional case fan.
+Use a painted computer case.
+42.Which type of interface was originally developed for high-definition televisions and is also popular to use with computers to connect audio and video devices?
+FireWire
+DVI
+HDMI
+USB
+VGA
+43.Which statement describes a characteristic of SRAM in a PC?
+It is used as main RAM in a PC.
+It has the highest power consumption.
+It is used for cache memory.
+It has a connector with 240 pins.
+44.A customer has a computer for a home business, but wants to have another computer as a web server. What would be the best solution for the customer to share the monitor, mouse, and keyboard between the two computers?
+access point
+KVM switch
+multipurpose device
+network switch
+USB hub
+46.What is a good safety precaution to take when opening a computer case?
+Place tape over the case edges that are sharp.
+Remove the cover (or door) of the computer case before installing or removing parts.
+Remove the connections to the front panel before extending the case fully open.
+Ensure that any loose clothing such as a tie or shirt stay in constant contact with the case when handling internal components.
+47.What does the &#8220;A&#8221; in P-A-S-S remind a person to do while using a fire extinguisher?
+Aim the fire extinguisher at the flames.
+Aim the fire extinguisher at the base of the fire.
+Activate the fire extinguisher.
+Adjust the pressure.
+28.Which two storage devices use a magnetic medium for storing data? (Choose two.)
+ tape drive
+solid state drive
+hard disk drive
+blue-ray disk drive
+compact disk drive
+33.Which statement describes a characteristic of GDDR Synchronous Dynamic RAM?
+It is used in conjunction with a dedicated GPU.
+It processes massive amounts of data at the fastest speeds.
+It is used for main memory.
+It has a low power consumption and is used for cache memory.
+41.Which tool can protect computer components from the effects of ESD?
+antistatic wrist strap
+surge suppressor
+UPS
+SPS
+46.What is a good safety precaution to take when opening a computer case?
+Place tape over the case edges that are sharp.
+Remove the cover (or door) of the computer case before installing or removing parts.
+Remove the connections to the front panel before extending the case fully open.
+Ensure that any loose clothing such as a tie or shirt stay in constant contact with the case when handling internal components.
+52.Which statement describes the purpose of an I/O connector plate?
+It makes the I/O ports of the motherboard available for connection in a variety of computer cases.
+It plugs into the motherboard and expands the number of available slots for adapter cards.
+It provides multiple connections for SATA hard drives to connect to the motherboard.
+It connects the PCIe adapter slots used for video directly to the CPU for faster processing.
+58.Which PC motherboard bus is used to connect the CPU to RAM and other motherboard components?
+ front-side
+PCI
+PCIe
+SATA
+65.Which type of motherboard expansion slot has four types ranging from x1 to x16 with each type having a different length of expansion slot?
+PCIe
+AGP
+SATA
+PCI
+69.When assembling a PC, how is pin 1 identified on the front panel cables so that it can be aligned properly with pin 1 on the motherboard panel connector?
+by a small arrow or notch
+by a plus sign
+by a P1
+by a red cable
+73.A technician has just finished assembling a new computer. When the computer is powered up for the first time, the POST discovers a problem. How does the POST indicate the error?
+It issues a number of short beeps.
+The LED on the front of the computer case flashes a number of times.
+It places an error message in the BIOS.
+It locks the keyboard.
